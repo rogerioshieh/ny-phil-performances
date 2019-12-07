@@ -1,0 +1,2767 @@
+,birthYear,deathYear
+"Beethoven,  Ludwig  van",1770.0,1827.0
+"Wagner,  Richard",1813.0,1883.0
+"Tchaikovsky,  Pyotr  Ilyich",1840.0,1893.0
+"Mozart,  Wolfgang  Amadeus",1756.0,1791.0
+"Brahms,  Johannes",1833.0,1897.0
+"Strauss,  Richard",1864.0,1949.0
+"Bach,  Johann  Sebastian",1685.0,1750.0
+"Mendelssohn,  Felix",1809.0,1847.0
+"Dvorak,  Antonín",1841.0,1904.0
+"Schubert,  Franz",1797.0,1828.0
+"Ravel,  Maurice",1875.0,1937.0
+"Berlioz,  Hector",1803.0,1869.0
+"Liszt,  Franz",1811.0,1886.0
+"Traditional,",0.0,9999.0
+"Stravinsky,  Igor",1882.0,1971.0
+"Debussy,  Claude",1862.0,1918.0
+"Weber,  Carl  Maria Von",1786.0,1826.0
+"Schumann,  Robert",1810.0,1856.0
+"Strauss,  Johann, II",,
+"Haydn,  Franz  Joseph",1732.0,1809.0
+"Gershwin,  George",1898.0,1937.0
+"Prokofiev,  Sergei",1891.0,1953.0
+"Saint-Saens [Saint-Saëns],  Camille",1835.0,1921.0
+"Anthem,",0.0,9999.0
+"Rimsky-Korsakov,  Nikolai",1844.0,1908.0
+"Sibelius,  Jean",1865.0,1957.0
+"Copland,  Aaron",1900.0,1990.0
+"Mahler,  Gustav",1860.0,1911.0
+"Rachmaninoff,  Sergei",1873.0,1943.0
+"Bernstein,  Leonard",1918.0,1990.0
+"Rossini,  Gioachino",1792.0,1868.0
+"Verdi,  Giuseppe",1813.0,1901.0
+"Handel,  George  Frideric",1685.0,1759.0
+"Bizet,  Georges",1838.0,1875.0
+"Shostakovich,  Dmitri",1906.0,1975.0
+"Chopin,  Frédéric",1810.0,1849.0
+"Musorgsky,  Modest",1839.0,1881.0
+"Grieg,  Edvard",1843.0,1907.0
+"Bartok [Bartók],  Béla",1881.0,1945.0
+"Franck,  César",1822.0,1890.0
+"Smetana,  Bedrich",1824.0,1884.0
+"Barber,  Samuel",1910.0,1981.0
+"Sousa,  John  Philip",1854.0,1932.0
+"Falla,  Manuel  de",1876.0,1946.0
+"Elgar,  Sir  Edward",1857.0,1934.0
+"Bruckner,  Anton",1824.0,1824.0
+"Respighi,  Ottorino",1879.0,1936.0
+"Rodgers,  Richard",1902.0,1979.0
+"Bruch,  Max",1838.0,1920.0
+"Puccini,  Giacomo",1858.0,1924.0
+"Dukas,  Paul",1865.0,1935.0
+"Ives,  Charles",1874.0,1954.0
+"Vivaldi,  Antonio",1678.0,1741.0
+"Borodin,  Alexander",1833.0,1887.0
+"Gluck,  Christoph  Willibald",1714.0,1787.0
+"Lalo,  Edouard",1823.0,1892.0
+"Chabrier,  Emmanuel",1841.0,1894.0
+"Goldmark,  Karl",1830.0,1915.0
+"Hindemith,  Paul",1895.0,1963.0
+"Glinka,  Mikhail",1804.0,1857.0
+"Schuman,  William",1910.0,1992.0
+"Hadley,  Henry  Kimball",1871.0,1937.0
+"Vaughan Williams,  Ralph",1872.0,1958.0
+"Britten,  Benjamin",1913.0,1976.0
+"Massenet,  Jules",1842.0,1912.0
+"Gounod,  Charles",1818.0,1893.0
+"Rubinstein,  Anton",1829.0,1894.0
+"Kodaly [Kodály],  Zoltán",1882.0,1967.0
+"Glazunov,  Alexander",1865.0,1936.0
+"Schoenberg,  Arnold",1874.0,1951.0
+"Lehar [Lehár],  Franz",1870.0,1948.0
+"Webern,  Anton  von",1883.0,1945.0
+"Ellington,  Duke",1899.0,1974.0
+"Kern,  Jerome",1885.0,1945.0
+"Unspecified,",,
+"Delius,  Frederick",1862.0,1934.0
+"Harris,  Roy",1898.0,1979.0
+"Khachaturian,  Aram",1903.0,1978.0
+"Walton,  William",1902.0,1983.0
+"Herbert,  Victor",1859.0,1924.0
+"Albeniz [Albéniz],  Isaac",1860.0,1909.0
+"Lyadov,  Anatoli",,
+"Gould,  Morton",1913.0,1996.0
+"Faure [Fauré],  Gabriel-Urbain",,
+"Berg,  Alban",1885.0,1935.0
+"Villa-Lobos,  Heitor",1887.0,1959.0
+"Offenbach,  Jacques",1819.0,1880.0
+"Ippolitov-Ivanov,  Mikhail",1859.0,1935.0
+"MacDowell,  Edward  A.",1860.0,1908.0
+"Paganini,  Nicolò",1782.0,1840.0
+"Schelling,  Ernest",1876.0,1939.0
+"Humperdinck,  Engelbert",1854.0,1921.0
+"Donizetti,  Gaetano",1797.0,1848.0
+"Bloch,  Ernest",1880.0,1959.0
+"Honegger,  Arthur",1892.0,1955.0
+"Purcell,  Henry",1659.0,1695.0
+"Kabalevsky,  Dmitri",1904.0,1987.0
+"Cherubini,  Luigi",1760.0,1842.0
+"Chausson,  Ernest",1855.0,1899.0
+"Grainger,  Percy",1882.0,1961.0
+"Milhaud,  Darius",1892.0,1974.0
+"Thomas,  Ambroise",1811.0,1896.0
+"Weill,  Kurt",1900.0,1950.0
+"Williams,  John",1932.0,2005.0
+"Wolf,  Hugo",1860.0,1903.0
+"Delibes,  Léo",1836.0,1891.0
+"Poulenc,  Francis",1899.0,1963.0
+"Indy,  Vincent  d'",1851.0,1931.0
+"Enesco,  Georges",1881.0,1955.0
+"Weinberger,  Jaromir",1896.0,1967.0
+"Moszkowski,  Moritz",1854.0,1925.0
+"Romberg,  Sigmund",1887.0,1951.0
+"Scriabin,  Alexander",1872.0,1871.0
+"Charpentier,  Gustave",1860.0,1956.0
+"Pollack,  Lew",1895.0,1946.0
+"Adams,  John",1735.0,1826.0
+"Spohr,  Louis",1784.0,1859.0
+"Reger,  Max",1873.0,1916.0
+"Menotti,  Gian  Carlo",1911.0,2007.0
+"Kreisler,  Fritz",1875.0,1962.0
+"Nielsen,  Carl",1865.0,1931.0
+"Raff,  Joachim",1822.0,1882.0
+"Roussel,  Albert",1869.0,1937.0
+"Vieuxtemps,  Henri",1820.0,1881.0
+"Anderson,  Leroy",1908.0,1975.0
+"Ibert,  Jacques",1890.0,1962.0
+"Boccherini,  Luigi",1743.0,1805.0
+"Sullivan,  Sir  Arthur  Seymour",1842.0,1900.0
+"Sondheim,  Stephen",1930.0,1962.0
+"Meyerbeer,  Giacomo",1791.0,1864.0
+"Porter,  Cole",1891.0,1964.0
+"Ligeti,  György",1923.0,2006.0
+"Dohnanyi,  Erno  von",1877.0,1960.0
+"Gabrieli,  Giovanni",1554.0,1557.0
+"Taylor,  Deems",1885.0,1966.0
+"Wieniawski,  Henri",1835.0,1880.0
+"Messiaen,  Olivier",1908.0,1992.0
+"Berlin,  Irving",1888.0,1989.0
+"Demonstration,",0.0,9999.0
+"Discussion,",0.0,9999.0
+"Nicolai,  Otto",1810.0,1849.0
+"Chadwick,  George  Whitefield",1854.0,1931.0
+"Carter,  Elliott",1908.0,2012.0
+"Wolf-Ferrari,  Ermanno",1876.0,1948.0
+"Rameau,  Jean-Philippe",1683.0,1683.0
+"Thomson,  Virgil",1896.0,1989.0
+"Martinu,  Bohuslav",1890.0,1959.0
+"Goldmark,  Rubin",1872.0,1936.0
+"Chavez [Chávez],  Carlos",1899.0,1978.0
+"Stolz,  Robert",1880.0,1975.0
+"Janacek [Janácek],  Leoš",,
+"Piston,  Walter",1894.0,1976.0
+"Sarasate,  Pablo  de",1844.0,1908.0
+"Holst,  Gustav",1874.0,1934.0
+"Rouse,  Christopher",1949.0,2019.0
+"Bellini,  Vincenzo",1801.0,1835.0
+"Druckman,  Jacob",1928.0,1996.0
+"Casella,  Alfredo",1883.0,1947.0
+"Machado,  Roger",1974.0,1510.0
+"Gretry [Grétry],  Andre [André]  Ernest Modeste",,
+"Griffes,  Charles  Tomlinson",1884.0,1920.0
+"Loeffler,  Charles  Martin",1861.0,1935.0
+"Corelli,  Arcangelo",1653.0,1713.0
+"Mascagni,  Pietro",1863.0,1945.0
+"Strauss,  Johann, Jr. & Josef",,
+"Gliere [Glière],  Reinhold",1875.0,1874.0
+"Ginastera,  Alberto",1916.0,1983.0
+"Varese [Varèse],  Edgard",1883.0,1965.0
+"Berio,  Luciano",1925.0,2003.0
+"Ponchielli,  Amilcare",1834.0,1886.0
+"Suppe [Suppé],  Franz  Von",1819.0,1895.0
+"Lindberg,  Magnus",1958.0,2009.0
+"Carpenter,  John  Alden",1876.0,1951.0
+"Telemann,  Georg  Philipp",1681.0,1767.0
+"Gruber,  Franz  Xaver",1787.0,1863.0
+"Strauss,  Johann, Sr.",,
+"Korngold,  Erich",1897.0,1957.0
+"Leoncavallo,  Ruggero",1857.0,1919.0
+"Salonen,  Esa-Pekka",1958.0,9999.0
+"Granados,  Enrique",1867.0,1916.0
+"Turrin,  Joseph",,
+"Kalman [Kálmán],  Emmerich",1882.0,1953.0
+"Corigliano,  John, Jr.",,
+"Pierne [Pierné],  Gabriel",1863.0,1937.0
+"Duparc,  Henri",0.0,9999.0
+"Ward,  Samuel  Augustus",1848.0,1903.0
+"Damrosch,  Walter",1862.0,1950.0
+"Creston,  Paul",1906.0,1985.0
+"Herrmann,  Bernard",1911.0,1975.0
+"Loewe,  Frederick",1901.0,1988.0
+"Loesser,  Frank",1910.0,1969.0
+"Schuller,  Gunther",1925.0,2015.0
+"Unknown,",0.0,9999.0
+"Dubensky,  Arkady",,
+"Szymanowski,  Karol",1882.0,1937.0
+"Penderecki,  Krzysztof",1933.0,1959.0
+"Svendsen,  Johan",1840.0,1911.0
+"Lutoslawski,  Witold",1913.0,1994.0
+"Strauss,  Josef",1827.0,1870.0
+"Foss,  Lukas",1922.0,2009.0
+"Busoni,  Ferruccio",1866.0,1924.0
+"Turina,  Joaquin",1882.0,1949.0
+"Bach,  Johann  Christian",1735.0,1782.0
+"Boulez,  Pierre",1925.0,2016.0
+"Gottschalk,  Louis  Moreau",1829.0,1869.0
+"Hanson,  Howard",1896.0,1981.0
+"Couperin,  Francois [François]",1668.0,1733.0
+"Zwilich,  Ellen  Taaffe",1939.0,1994.0
+"Monteverdi,  Claudio",1567.0,1643.0
+"Gade,  Niels",1817.0,1890.0
+"Damrosch,  Leopold",1832.0,1885.0
+"Reznicek,  Emil  Nikolaus von",1860.0,1945.0
+"Hummel,  Johann",1778.0,1837.0
+"Gubaidulina,  Sofia",1931.0,9999.0
+"Grofe [Grofé],  Ferde",1892.0,1972.0
+"Paderewski,  Ignacy  Jan",1860.0,1941.0
+"Godard,  Benjamin",1849.0,1895.0
+"Hill,  Patty  and Mildred",,
+"Stransky,  Josef",1872.0,1936.0
+"Satie,  Erik",1866.0,1925.0
+"Waldteufel,  Emil",1837.0,1915.0
+"Diamond,  David",1915.0,2005.0
+"Sinigaglia,  Leone",1868.0,1944.0
+"Still,  William  Grant",1895.0,1978.0
+"Sieczynski,  Rudolf",1879.0,1952.0
+"Coward,  Noël",1899.0,1973.0
+"Pizzetti,  Ilderbando",,
+"Dutilleux,  Henri",1916.0,2013.0
+"Bax,  Sir  Arnold",1883.0,1953.0
+"Mason,  Daniel  Gregory",1873.0,1953.0
+"Schnittke,  Alfred",1934.0,1998.0
+"Ganz,  Rudolph",1877.0,1972.0
+"Rorem,  Ned",1923.0,1976.0
+"Kander,  John",1927.0,1966.0
+"Adam,  Adolphe  Charles",1803.0,1856.0
+"Cornelius,  Peter",1824.0,1874.0
+"Stanford,  Sir  Charles  Villiers",1852.0,1924.0
+"Pierpont,  James  Lord",1822.0,1893.0
+"Mulligan,  Gerry",1927.0,1996.0
+"Coleridge-Taylor,  Samuel",1875.0,1912.0
+"Martucci,  Giuseppe",1856.0,1909.0
+"Gilbert,  Henry  F.",1868.0,1928.0
+"Foster,  Stephen  Collins",1826.0,1864.0
+"Cimarosa,  Domenico",1749.0,1801.0
+"Arlen,  Harold",1905.0,1986.0
+"Gretchaninoff,  Alexander",1864.0,1956.0
+"Goossens,  Eugene",1845.0,1906.0
+"Hovhaness,  Alan",1911.0,2000.0
+"Litolff,  Henry  Charles",1818.0,1891.0
+"Styne,  Jule",1905.0,1994.0
+"Bayer,  Joseph",1846.0,1900.0
+"Cowell,  Henry  Dixon",1897.0,1965.0
+"Castelnuovo-Tedesco,  Mario",1895.0,1968.0
+"Skalkottas,  Nikos",1904.0,1949.0
+"Cilea,  Francesco",1866.0,1950.0
+"Dello Joio,  Norman",1913.0,2008.0
+"Vilbac,  Alphonse Charles Renaud  de",,
+"Sheng,  Bright",1955.0,1982.0
+"Stockhausen,  Karlheinz",1928.0,2007.0
+"Steffe,  William",1830.0,1890.0
+"Rodrigo,  Joaquín",1901.0,1999.0
+"Rieti,  Vittorio",1898.0,1994.0
+"Auber,  Daniel-François",,
+"Previn,  Sir  André",1929.0,2019.0
+"Wade,  John  Francis",1711.0,1786.0
+"Piazzolla,  Astor",1921.0,1992.0
+"Fernandez [Fernândez],  Oscar  Lorenzo",1897.0,1948.0
+"Crumb,  George",1929.0,1970.0
+"Pergolesi,  Giovanni  Battista",1710.0,1736.0
+"Volkmann,  Friedrich  Robert",1815.0,1883.0
+"Bach,  Carl  Philipp Emanuel",1714.0,1788.0
+"Mennin,  Peter",1923.0,1983.0
+"Kalinnikov,  Vassili",,
+"Carpenter,  Mary  Chapin",1958.0,1987.0
+"Pirani,  Eugenio  di",,
+"Kirchner,  Leon",1919.0,2009.0
+"Rabaud,  Henri",1873.0,1949.0
+"Byrd,  William",1539.0,1543.0
+"Arensky,  Anton  Stepanovich",1861.0,1906.0
+"Takemitsu,  Toru",1930.0,1996.0
+"Toch,  Ernst",1887.0,1964.0
+"Popper,  David",1843.0,1913.0
+"Labate,  Bruno",,
+"Martin,  Frank",1878.0,1942.0
+"Riegger,  Wallingford",1885.0,1961.0
+"Thompson,  Randall",1899.0,1984.0
+"Lecuona,  Ernesto",1895.0,1963.0
+"Straus,  Oscar",1870.0,1954.0
+"Krenek,  Ernst",1900.0,1991.0
+"Deak,  Jon",1943.0,1973.0
+"Powell,  John",0.0,9999.0
+"Waller,  Fats  (Thomas)",,
+"Rota,  Nino",1911.0,1979.0
+"Dix,  Brian",,
+"Foote,  Arthur",1853.0,1937.0
+"Scarlatti,  Domenico",1685.0,1757.0
+"Sinding,  Christian",1856.0,1941.0
+"Czibulka,  Alphons",1842.0,1894.0
+"Langley,  Allan  Lincoln",,
+"Handy,  William  Christopher",1873.0,1958.0
+"Giordano,  Umberto",1867.0,1948.0
+"Sowerby,  Leo",1895.0,1968.0
+"Tiomkin,  Dimitri",1894.0,1979.0
+"Lekeu,  Guillaume",1870.0,1894.0
+"Fuleihan,  Anis",1900.0,1970.0
+"Weingartner,  Felix",1863.0,1942.0
+"Lully,  Jean  Baptiste",1632.0,1687.0
+"Bargiel,  Woldemar",1828.0,1897.0
+"Reinecke,  Carl",1824.0,1910.0
+"Bach,  P.D.Q.",2012.0,2015.0
+"Dun,  Tan",1957.0,2008.0
+"Berezowsky,  Nicolai",1900.0,1953.0
+"Hamlisch,  Marvin",1944.0,2012.0
+"Malipiero,  Gian  Francesco",1882.0,1973.0
+"Rozsa [Rózsa],  Miklós",,
+"Dallapiccola,  Luigi",1904.0,1975.0
+"McDonald,  Harl",1899.0,1955.0
+"Strayhorn,  Billy",1915.0,1967.0
+"Tommasini,  Vincenzo",1878.0,1950.0
+"Vivanco,  Moises",1922.0,1922.0
+"Roger-Ducasse,  Jean",1873.0,1954.0
+"Bolcom,  William",1938.0,2007.0
+"Dubois,  Theodore",1837.0,1924.0
+"Balakirev,  Mily  Alekseyevich",1837.0,1836.0
+"D'Albert,  Eugen",1864.0,1932.0
+"Quilter,  Roger",1877.0,1953.0
+"Kleinsinger,  George",1914.0,1982.0
+"Flotow,  Friedrich  Von",1812.0,1883.0
+"Viotti,  Giovanni  Battista",1755.0,1824.0
+"Marsalis,  Wynton",1961.0,9999.0
+"Orff,  Carl",1895.0,1895.0
+"Cella,  Theodore",,
+"Schmitt,  Florent",1870.0,1958.0
+"Kay,  Ulysses  Simpson",1917.0,1995.0
+"Kernis,  Aaron  Jay",1960.0,9999.0
+"Schreiner,  Alexander",1901.0,1987.0
+"Dinicu,  Grigoras",1889.0,1949.0
+"Harbison,  John",1938.0,9999.0
+"Canteloube,  Joseph",1879.0,1957.0
+"Joplin,  Scott",1868.0,1917.0
+"Stucky,  Steven",1949.0,2016.0
+"Miaskovsky,  Nikolai",1881.0,1950.0
+"Lindpaintner,  Peter  Von",,
+"Tansman,  Alexandre",1897.0,1986.0
+"Cage,  John",1912.0,1992.0
+"Guarnieri,  Camargo",1907.0,1993.0
+"Moore,  Douglas  Stuart",1893.0,1969.0
+"Gevaert,  François-Auguste",1828.0,1908.0
+"Wolfe,  Jacques",1896.0,1973.0
+"Herold,  Louis  Joseph Ferdinand [Hérold]",1791.0,1833.0
+"Zemlinsky,  Alexander",1871.0,1942.0
+"Rogers,  Bernard",1893.0,1968.0
+"Newman,  Randy",1943.0,2002.0
+"Lane,  Burton",1912.0,1997.0
+"Alfven [Alfvén],  Hugo",1872.0,1960.0
+"Xenakis,  Iannis",1922.0,2001.0
+"Saariaho,  Kaija",1952.0,1982.0
+"Marschner,  Heinrich  August",1795.0,1861.0
+"Sabata,  Victor  De",1892.0,1967.0
+"Susato,  Tylman",1510.0,1570.0
+"Chaplin,  Charles",1889.0,1977.0
+"Sandoval,",1938.0,1963.0
+"Gillis,  Don",1912.0,1978.0
+"Ades [Adès],  Thomas",1971.0,9999.0
+"Tovey,  Bramwell",1953.0,9999.0
+"Converse,  Frederick  S.",1871.0,1940.0
+"Anastasio,  Trey",1964.0,1983.0
+"Bachelet,  Alfred  (Georges)",,
+"Jacobi,  Frederick",1891.0,1952.0
+"Siegmeister,  Elie",1909.0,1991.0
+"White,  Paul",1886.0,1973.0
+"Wuorinen,  Charles",1938.0,9999.0
+"Sessions,  Roger",1896.0,1985.0
+"Youmans,  Vincent",1898.0,1946.0
+"Aubert,  Louis",1877.0,1968.0
+"Scharwenka,  Franz  Xaver",1850.0,1924.0
+"Kuhlau,  Friedrich",1786.0,1832.0
+"Paine,  John  Knowles",1839.0,1906.0
+"Gilmore,  Patrick  Sarsfield",1829.0,1892.0
+"Maazel,  Lorin",1930.0,2014.0
+"Pfitzner,  Hans",1869.0,1949.0
+"Henze,  Hans  Werner",1926.0,2012.0
+"Cadman,  Charles  Wakefield",1881.0,1946.0
+"VARIOUS,",,
+"Suk,  Josef",1874.0,1935.0
+"Folk Song,",,
+"Widor,  Charles  Marie",1844.0,1937.0
+"Improvisation,",0.0,9999.0
+"Whithorne,  Emerson",1884.0,1958.0
+"Bristow,  George  Frederick",1825.0,1898.0
+"Davis,  Katherine",1892.0,1980.0
+"Boyce,  William",1711.0,1779.0
+"Wagenaar,  Bernard",1894.0,1971.0
+"Saminsky,  Lazare",1882.0,1959.0
+"Scott,  Cyril",1879.0,1970.0
+"Neikrug,  Marc",1946.0,1966.0
+"Ziehrer,  Carl  Michael",1843.0,1922.0
+"Blaine,  Ralph",,
+"Catalani,  Alfredo",1854.0,1893.0
+"Stix,  Carl",,
+"Ysaye,  Eugène",1858.0,1931.0
+"Tartini,  Giuseppe",1692.0,1770.0
+"Gotovak,  Jakov",,
+"Ruggles,  Carl",1876.0,1971.0
+"Smith,  David  Stanley",0.0,9999.0
+"Schulhoff,  Erwin",1894.0,1942.0
+"Walker,  George",0.0,9999.0
+"Casadesus,  Robert",1899.0,1972.0
+"Torme [Tormé],  Mel",1925.0,1999.0
+"Gillet,  Ernest",1856.0,1940.0
+"Morricone,  Ennio",1928.0,1961.0
+"Templeton,  Alec",1909.0,1963.0
+"Del Tredici,  David",1937.0,9999.0
+"Boito,  Arrigo",1842.0,1918.0
+"Valerius,  Adriaen",1575.0,1625.0
+"Breton,  Tomás",,
+"Giannini,  Vittorio",1903.0,1966.0
+"Chasins,  Abram",1903.0,1987.0
+"Lopatnikoff,  Nikolai",1903.0,1976.0
+"Lassen,  Eduard",1830.0,1904.0
+"Stenhammar,  Wilhelm",1871.0,1927.0
+"Stalling,  Carl  W.",1891.0,1972.0
+"Shchedrin,  Rodion",1932.0,1972.0
+"Birtwistle,  Harrison",1934.0,9999.0
+"Praetorius,  Michael",1571.0,1621.0
+"Zandonai,  Riccardo",1883.0,1944.0
+"Mackenzie,  Alexander  C.",,
+"Reich,  Steve",1936.0,1965.0
+"Skilton,  Charles  Sanford",1868.0,1941.0
+"Benjamin,  Arthur",1893.0,1960.0
+"Schoenfield,  Paul",1947.0,1983.0
+"Persichetti,  Vincent",1915.0,1987.0
+"Vivaldi-Bach,",,
+"Kalliwoda,  Johann  W.",,
+"Schumann,  Georg",1866.0,1952.0
+"Eisfeld,  Theodore",1816.0,1882.0
+"Tosti,  Francesco  Paolo",1846.0,1916.0
+"Wallace,  William  Vincent",1812.0,1865.0
+"Willson,  Meredith",1902.0,1984.0
+"Knussen,  Oliver",1952.0,2018.0
+"Swanson,  Howard",1907.0,1978.0
+"Brockway,  Howard",1870.0,1951.0
+"Ruders,  Poul",1949.0,9999.0
+"Francaix [Françaix],  Jean",1912.0,1997.0
+"Stojowski,  Sigismond",1870.0,1946.0
+"Burleigh,  Henry [Harry]  Thacker",1866.0,1949.0
+"Blon,  Franz  von",1861.0,1945.0
+"Denza,  Luigi",1846.0,1922.0
+"Li,  Huanzhi",,
+"Salzedo,  Carlos",1885.0,1961.0
+"Beriot,  Charles-Auguste  de",1802.0,1870.0
+"D'Artega,  (Alfonso)",,
+"Maxwell Davies,  Sir  Peter",1934.0,2016.0
+"Kramer,  Alex  Walter",,
+"Becket,  Thomas  A.",,
+"Lachner,  Franz",1803.0,1890.0
+"Busch,  Adolf",1891.0,1952.0
+"Fine,  Irving",1914.0,1962.0
+"Benatzky,  Ralph",1884.0,1957.0
+"Schreker,  Franz",1878.0,1934.0
+"Boulanger,  Lili",1893.0,1918.0
+"Burt,  Alfred  Shaddick",,
+"Rihm,  Wolfgang",1952.0,2001.0
+"Cailliet,  Lucien",1891.0,1985.0
+"Pick-Mangiagalli,  Riccardo",1882.0,1949.0
+"Mehul [Méhul],  Etienne  Nicolas",1763.0,1817.0
+"Liebermann,  Rolf",1910.0,1999.0
+"Schickele,  Peter",1935.0,1990.0
+"Fuchs,  Robert",1847.0,1927.0
+"Jarnefelt [Järnefelt],  Armas",1869.0,1958.0
+"Stringfield,  Lamar",1897.0,1959.0
+"Geminiani,  Francesco",1687.0,1762.0
+"Bennett,  Robert  Russell",1894.0,1981.0
+"Burckhardt,  J.",1818.0,1897.0
+"Henselt,  Adolf  Von",1814.0,1889.0
+"Boellmann,  Leon",1862.0,1897.0
+"Gomes,  Antonio  Carlos",1836.0,1896.0
+"Palestrina,  Giovanni  Da",,
+"Ochs,  Siegfried",1858.0,1929.0
+"Richard,  Douglas  A.",,
+"Wilson,  Olly",1937.0,2018.0
+"Kurthy,  Zoltan",,
+"Paisiello,  Giovanni",1740.0,1816.0
+"Golijov,  Osvaldo",1960.0,9999.0
+"DiLorenzo,  Anthony",,
+"Crespo,  Enrique",1944.0,2009.0
+"Bennett,  William  Sterndale",1816.0,1875.0
+"Mozart,  Leopold",1719.0,1787.0
+"Maganini,  Quinto",1897.0,1974.0
+"Hiller,  Ferdinand",1811.0,1885.0
+"Mercadante,  Giuseppe  Saverio",,
+"Devienne,  François",1759.0,1803.0
+"Albinoni,  Tomaso",1671.0,1751.0
+"Babbitt,  Milton",1916.0,2011.0
+"Steiner,  Max",1888.0,1971.0
+"Kreutz,  Arthur",1906.0,1991.0
+"Schwantner,  Joseph",1943.0,2002.0
+"Molique,  Wilhelm  Bernhard",1802.0,1869.0
+"Bulla,  Stephen",,
+"James,  Philip",1890.0,1975.0
+"Tcherepnin,  Nikolai",1873.0,1945.0
+"Weiner,  Leo",1885.0,1960.0
+"Dunn,  James  Philip",1884.0,1936.0
+"German,  Edward",1862.0,1936.0
+"Willis,  Wallis",1820.0,1880.0
+"Rogers,  James  H.",,
+"Gardiner,  Henry  Balfour",1877.0,1950.0
+"Tippett,  Michael",1905.0,1998.0
+"Tamberg,  Eino",1930.0,2010.0
+"Shankar,  Ravi",1920.0,2012.0
+"Revueltas,  Silvestre",1899.0,1940.0
+"Akiho,  Andy",1979.0,9999.0
+"Humiston,  William  Henry",,
+"Scarlatti,  Alessandro",1660.0,1725.0
+"Benjamin,  George",1799.0,1864.0
+"Redner,  Lewis",1831.0,1908.0
+"Jensen,  Adolf",1837.0,1879.0
+"Zimbalist,  Efrem",1889.0,1985.0
+"Stamitz,  Carl",1745.0,1801.0
+"Gruenberg,  Louis",1884.0,1964.0
+"Coates,  Albert",1882.0,1953.0
+"Borowski,  Felix",1872.0,1956.0
+"Ben-Haim,  Paul",1897.0,1984.0
+"Luening,  Otto",1900.0,1996.0
+"Torke,  Michael",1961.0,9999.0
+"Vactor,  David  Van",1906.0,1994.0
+"Strauss,  Eduard",1835.0,1916.0
+"Bucharoff [Buchalter],  Simon",1881.0,1955.0
+"Kolar,  Victor",1888.0,1957.0
+"Wetzler,  Hermann  Hans",,
+"Franz,  Robert",1815.0,1892.0
+"Greef,  Arthur  De",1862.0,1940.0
+"Rands,  Bernard",1934.0,1975.0
+"Lang,  David",1924.0,1991.0
+"Premru,  Raymond",1934.0,1998.0
+"Arditi,  Luigi",1822.0,1903.0
+"Knipper,  Lev",1898.0,1974.0
+"Sweelinck,  Jan  Pieterszoon",1562.0,1621.0
+"Tower,  Joan",1938.0,1981.0
+"Wolpe,  Stefan",1902.0,1972.0
+"Lara,  Manuel  Manrique De",,
+"Starer,  Robert",1924.0,2001.0
+"Barbirolli,  John",1899.0,1970.0
+"Turner,  Charles",0.0,9999.0
+"McCartney,  Sir  Paul",1942.0,1970.0
+"Hollaender,  Friedrich",1896.0,1976.0
+"Lieberson,  Peter",1946.0,2011.0
+"Husa,  Karel",1921.0,2016.0
+"Bishop,  Sir  Henry  Rowley",1786.0,1855.0
+"Chapi (y Lorente),  Ruperto",,
+"Drigo,  Riccardo",1846.0,1930.0
+"Damase,  Jean-Michel",1928.0,2013.0
+"MacMillan,  James",1959.0,9999.0
+"Minkus,  Leon",1826.0,1917.0
+"Petrassi,  Goffredo",1904.0,2003.0
+"Haydn,  Michael",1737.0,1806.0
+"Smith,  Hale",1925.0,2009.0
+"Blacher,  Boris",1903.0,1975.0
+"North,  Alex",1910.0,1991.0
+"Boieldieu,  François-Adrien",1775.0,1834.0
+"Perpessas,  Harilaos",1907.0,1995.0
+"Young,  Victor",1900.0,1956.0
+"Ropartz,  Joseph  Guy",1864.0,1955.0
+"Paert [Pärt],  Arvo",1935.0,1977.0
+"Bacewicz,  Grazyna",1909.0,1969.0
+"Bliss,  Arthur",1891.0,1975.0
+"Keler-Bela [Kéler-Béla],",,
+"Bock,  Jerry",1928.0,2010.0
+"Von Blon,  Franz",,
+"Sanders,  Robert  L.",,
+"Einem,  Gottfried  Von",,
+"Tizol,  Juan",1900.0,1984.0
+"Bloom,  Rube",1902.0,1976.0
+"Mohaupt,  Richard",1904.0,1957.0
+"Ries,  Franz",1846.0,1932.0
+"Bottesini,  Giovanni",1821.0,1889.0
+"Bernard,  Felix",1897.0,1944.0
+"Shulman,  Alan",1915.0,2002.0
+"Sokolov,  Nikolai  Alexandrovich",,
+"Falck,  Edward",,
+"David,  Felicien  Cesar",1810.0,1876.0
+"Gimenez,  Jeronimo",1854.0,1923.0
+"Fibich,  Zdenko",1850.0,1900.0
+"Goodman,  Saul",0.0,9999.0
+"Schutz,  Heinrich",1585.0,1672.0
+"Smith,  John  Stafford",1750.0,1836.0
+"Morricone,  Andrea and Ennio",,
+"Brown,  Earle",1926.0,2002.0
+"Marks,  Johnny",1909.0,1985.0
+"Ganne,  Louis",1862.0,1923.0
+"Franklyn,  Milt",1897.0,1962.0
+"Andres,  Timo",1985.0,9999.0
+"La Forge,  Frank",1879.0,1953.0
+"Dorman,  Avner",1975.0,9999.0
+"Shapero,  Harold",1920.0,2013.0
+"Muhly,  Nico",1981.0,9999.0
+"Marquina,  Pasquale",,
+"Rochberg,  George",1918.0,2005.0
+"Fourdrain,  Félix  Alfred",,
+"Schulz,  Leo",1865.0,1944.0
+"Scott,  Raymond",1908.0,1994.0
+"Haufrecht,  Herbert",,
+"Glass,  Philip",1937.0,9999.0
+"Sammartini,  Giovanni  B.",,
+"Monsigny,  Pierre  Alexandre",,
+"Tomasi,  Henri",1901.0,1971.0
+"Iturbi,  Jose",1895.0,1980.0
+"Dopper,  Cornelius",,
+"Noon,  David",1946.0,9999.0
+"Matthus,  Siegfried",1934.0,9999.0
+"Mengelberg,  Willem",1871.0,1951.0
+"Hopkins,  John  Henry",1792.0,1868.0
+"Halevy [Halévy],  Fromental",1799.0,1862.0
+"Gruber,  HK",1943.0,9999.0
+"Waxman,  Franz",1906.0,1967.0
+"Bantock,  Granville",1868.0,1946.0
+"Lunsqui,  Alexandre",,
+"Nevin,  Ethelbert",1862.0,1901.0
+"Carey,  Mariah",1969.0,1970.0
+"Hartmann,  Karl  Amadeus",1905.0,1963.0
+"Jessel,  Leon",1871.0,1942.0
+"O'Brien,  Jake",1984.0,2005.0
+"Goetz,  Hermann",1840.0,1876.0
+"Thomas,  Augusta  Read",1964.0,9999.0
+"Bossi,  Marco  Enrico",1861.0,1925.0
+"Castellanos,  Carlos",,
+"Parker,  Horatio",1863.0,1919.0
+"Mosolov,  Alexander",1900.0,1973.0
+"Gibbons,  Orlando",1583.0,1625.0
+"Stock,  Frederick  A.",,
+"Renwick,  Wilke",,
+"Moreno Torroba,  Federico",1891.0,1982.0
+"Bass,  Randol  Alan",,
+"Hill,  Edward  Burlingame",1872.0,1960.0
+"Nicode [Nicodé],  Jean  Louis",1853.0,1919.0
+"Scheidt,  Samuel",1587.0,1654.0
+"Pregel,  Boris",1893.0,1976.0
+"Lewis,  John",1940.0,9999.0
+"Matthews,  Colin",1946.0,9999.0
+"Komzak,  Karl",1850.0,1905.0
+"Anderson,  Julian",1967.0,9999.0
+"Victoria,  Tomás  Luis de",1548.0,1611.0
+"Porrino,  Ennio",1910.0,1959.0
+"Blitzstein,  Marc",1905.0,1964.0
+"Ernst,  Heinrich  Wilhelm",1812.0,1865.0
+"Gaburo,  Kenneth",1926.0,1993.0
+"Chueca,  Federico",1846.0,1908.0
+"King,  Karl  Lawrence",1891.0,1971.0
+"Kancheli,  Giya",1935.0,2019.0
+"Low,  Leo",1878.0,1960.0
+"Lvov,  Alexey",1653.0,1654.0
+"Rose,  David",0.0,9999.0
+"Chin,  Unsuk",1961.0,2004.0
+"Casals,  Pablo",1876.0,1973.0
+"Espejo,  Cesar",,
+"Di Capua,  Rinaldo",,
+"Castro,  Juan  José",1895.0,1968.0
+"Reinhold,  Hugo",1854.0,1935.0
+"Norpoth,  John-Paul/Jannina",,
+"Moniuszko,  Stanislaw",1819.0,1872.0
+"Pachelbel,  Johann",1653.0,1706.0
+"Chavarri,  Eduardo  Lopez",,
+"Schreiber,  Louis",,
+"Cohan,  George  Michael",1878.0,1942.0
+"Alabieff,  Alexander",,
+"Warren,  Harry",1893.0,1981.0
+"Medtner,  Nikolai",1880.0,1879.0
+"Phile,  Philip",1734.0,1793.0
+"Johnson,  Horace",1886.0,1966.0
+"Tarrega,  Francisco",1852.0,1909.0
+"Bridge,  Frank",1879.0,1941.0
+"Rabiu,  Isai",,
+"Hetu [Hétu],  Jacques",1938.0,2010.0
+"Noskowski,  Sigismund",1846.0,1909.0
+"Bemberg,  Herman",1859.0,1931.0
+"Kreutzer,  Conradin",1780.0,1849.0
+"Caccini,  Giulio",1551.0,1618.0
+"Durufle [Duruflé],  Maurice",1902.0,1986.0
+"Pugni,  Cesare",1802.0,1870.0
+"Manfredini,  Francesco",1684.0,1762.0
+"Zimmerman,  Charles  A.",1861.0,1916.0
+"Ries,  Ferdinand",1784.0,1838.0
+"Giacchino,  Michael",1967.0,9999.0
+"Lehmann,  Liza",1862.0,1918.0
+"Schwartz,  Arthur",1900.0,1984.0
+"Ponce,  Manuel",1882.0,1948.0
+"Stahlberg,  Fritz",,
+"Janis,  Tim",0.0,9999.0
+"Wagenaar,  Johan",1862.0,1941.0
+"Stolzel [Stölzel],  Gottfried  Heinrich",1690.0,1749.0
+"Rosenthal,  Manuel",1904.0,2003.0
+"Bland,  James",1692.0,1693.0
+"Pochon,  Alfred",1878.0,1959.0
+"Shepherd,  Sean",,
+"Arnold,  Sir  Malcolm",1921.0,2006.0
+"McBride,  Robert",0.0,9999.0
+"Merikanto,  Oskar",1868.0,1924.0
+"Puts,  Kevin",1972.0,2012.0
+"Danielpour,  Richard",1956.0,9999.0
+"Strong,  George  Templeton",1820.0,1875.0
+"Halvorsen,  Johan",1864.0,1935.0
+"Hendrix,  Jimi",1942.0,1970.0
+"Moscheles,  Ignaz",1794.0,1870.0
+"Balfe,  Michael  William",1808.0,1870.0
+"Schumann,  Clara",1819.0,1896.0
+"Beach,  Amy",1867.0,1944.0
+"Mollenhauer,  Friedrich",,
+"Lipatti,  Dinu",1917.0,1950.0
+"Maderna,  Bruno",1920.0,1973.0
+"Robinson,  Earl",1910.0,1991.0
+"Malotte,  Albert  Hay",1895.0,1964.0
+"Matheson,  James",1796.0,1878.0
+"Norman,  Andrew",1980.0,9999.0
+"Hailstork,  Adolphus",1941.0,1971.0
+"PUBLIQuartet,",,
+"Anrooy,  Peter  G. Van",,
+"Monk,  Thelonious",1917.0,1982.0
+"Whiting,  Richard",1461.0,1539.0
+"Ketterer,  Eugène",1831.0,1870.0
+"LeFrak,  Karen",,
+"Feldman,  Morton",1926.0,1987.0
+"Mignone,  Francisco",1897.0,1986.0
+"De Lamarter,  Eric",,
+"Eotvos [Eötvös],  Peter",1944.0,1962.0
+"Hue [Huë],  Georges  Adolphe",,
+"Curtis,  Ernesto Di",,
+"Boyle,  George  Frederick",1886.0,1948.0
+"Reicha,  Antoine(-Joseph)",,
+"Henschel,  Sir  George",1850.0,1934.0
+"Murail,  Tristan",1947.0,9999.0
+"Egner,  Phillip",,
+"Daugherty,  Michael",1954.0,1988.0
+"Coates,  Eric",1886.0,1957.0
+"Schillings,  Max  Von",,
+"Frescobaldi,  Girolamo",1583.0,1643.0
+"Abt,  Franz",1819.0,1885.0
+"De Curtis,  Ernesto",1875.0,1937.0
+"Jobim,  Antônio  Carlos (""Tom"")",,
+"Baker,  David  J.",1792.0,1869.0
+"Bjarnason,  Daniel [Daníel]",1979.0,2010.0
+"Pacini,  Giovanni",1796.0,1867.0
+"Braunfels,  Walter",1882.0,1954.0
+"Piket,  Frederick",,
+"Crawford,  Ruth  Porter",1901.0,1953.0
+"Ghedini,  Giorgio  Federico",1892.0,1965.0
+"Warlock,  Peter",1894.0,1930.0
+"Turnage,  Mark-Anthony",1960.0,9999.0
+"Tilzer,  Albert Von",1878.0,1956.0
+"Jongen,  Joseph",1873.0,1953.0
+"Stange,  Max",,
+"Dalbavie,  Marc-André",1961.0,1985.0
+"Arutunian,  Alexander",1920.0,2012.0
+"Guaraldi,  Vince",1928.0,1976.0
+"Friml,  Rudolf",1879.0,1972.0
+"Hubay,  Jeno",1858.0,1937.0
+"Ballantine,  Edward",1886.0,1971.0
+"Bellison,  Simeon",1881.0,1953.0
+"Bull,  Ole",1810.0,1880.0
+"Cowen,  Sir  Frederic  Hymen",,
+"Ward,  Robert",1917.0,2013.0
+"Thuille,  Ludwig",1861.0,1907.0
+"Thome [Thomé],  Francis",1850.0,1909.0
+"Roentgen [Röntgen],  Julius",1855.0,1932.0
+"Riegel,  Heinrich  Joseph",,
+"Amram,  David",1930.0,9999.0
+"Kolb,  Barbara",1939.0,1961.0
+"Gale,  Jack",1899.0,1975.0
+"Huss,  Henry  Holden",1862.0,1953.0
+"Spoliansky,  Mischa",1898.0,1985.0
+"Clapp,  Philip  Greeley",1888.0,1954.0
+"Kilar,  Wojciech",1932.0,2013.0
+"Johnson,  Hall",1888.0,1970.0
+"Lotti,  Antonio",1667.0,1740.0
+"Wilhelmj,  August  Daniel Ferdinand",,
+"Schubert - Berio ,  Franz - Luciano",,
+"Hillborg,  Anders",1954.0,9999.0
+"Dittersdorf,  Karl  Von",,
+"Schmidt,  Franz",1874.0,1939.0
+"Sakho,  Hawa",,
+"Lubetsky,  Maya",,
+"Rankin,  Rimari",,
+"Fiorillo,  Dante",,
+"Ritter,  Frederic  Louis",1834.0,1891.0
+"Ezekwenna,  Chibuzo ""Chi-chi""",,
+"Ewazen,  Eric",1954.0,9999.0
+"Ravina,",0.0,9999.0
+"Zeller,  Karl",1842.0,1898.0
+"Grever,  Maria",1885.0,1951.0
+"Norgard [Nørgård],  Per",1932.0,9999.0
+"Niles,  John  Jacob",1892.0,1980.0
+"Krug,  Arnold",1849.0,1904.0
+"Strickland,  Lily",1884.0,1958.0
+"Hageman,  Richard",1881.0,1966.0
+"Igudesman,  Aleksey",1973.0,9999.0
+"Speaks,  Oley",1874.0,1948.0
+"Garland,  Joseph  C.",1903.0,1977.0
+"Leclair,  Jean  Marie",,
+"Kay,  Hershy",1919.0,1981.0
+"Obradors,  Fernando",1897.0,1945.0
+"Fuchs,  H.",1948.0,9999.0
+"Sebesky,  Don",1937.0,9999.0
+"Lacombe,  Louis",1818.0,1884.0
+"Rex,  Charles  Gordon",,
+"Sanjuan,  Pedro",,
+"Wegh,  Claire",,
+"Micic,  Mia",,
+"Kurtag [Kurtág],  Georgy [György]",,
+"Stamitz,  Johann  Wenzel Anton",1717.0,1757.0
+"Reineke,  Steven",1970.0,9999.0
+"Picker,  Tobias",1954.0,9999.0
+"Guion,  David  Wendel F.",,
+"Jarrell,  Michael",1958.0,1982.0
+"Elbel,  Louis",1898.0,1907.0
+"Banfield,  Raffaelo de",,
+"Dykes,  John  Bacchus",1823.0,1876.0
+"Kozeluch,  Leopold  Anton",1747.0,1818.0
+"Schwartz,  Stephen",1941.0,1948.0
+"Harkness,  Rebecca",,
+"Hague,  Albert",1920.0,2001.0
+"Rossellini,  Renzo",1908.0,1982.0
+"Clarke,  Herbert  Lincoln",1867.0,1945.0
+"Ran,  Shulamit",1949.0,1990.0
+"Montsalvatge,  Xavier",1912.0,2002.0
+"Reid,  Billy",1857.0,1940.0
+"Harris,  Gavin",2005.0,9999.0
+"Nin,  Joachin",,
+"Koetsier,  Jan",1911.0,2006.0
+"Berger,  Arthur",1933.0,1912.0
+"Hupfeld,  Herman",1894.0,1951.0
+"Bulow,  Hans  Von",,
+"Bacalov,  Luis  Enrique",1933.0,2017.0
+"Poniewozik,  Milo",,
+"Muse,  Clarence",1889.0,1979.0
+"Mayuzumi,  Toshiro",1929.0,1997.0
+"Zorn,  John",1953.0,1987.0
+"Harrison,  Lou",1917.0,2003.0
+"Malneck,  Matty",1903.0,1981.0
+"Parry,  Sir  Charles  Hubert H.",,
+"Heller,  Stephen [István]",1813.0,1888.0
+"Stock,  David",1939.0,2015.0
+"Van Heusen,  Jimmy",1913.0,1990.0
+"Martirano,  Salvatore",1927.0,1995.0
+"Dahl,  Ingolf",1912.0,1970.0
+"Egk,  Werner",1901.0,1983.0
+"Caesar,  Irving",1895.0,1996.0
+"Bach,  Wilhelm  Friedemann",1710.0,1784.0
+"Pintscher,  Matthias",1971.0,9999.0
+"Mengelberg,  Rudolf",,
+"Estrella,  Marisol",,
+"Adolphe,  Julia",1988.0,2016.0
+"Rheinberger,  Joseph",1839.0,1901.0
+"Kelley,  Daniel",1843.0,1905.0
+"Vidal,  Paul  Antonin",1863.0,1931.0
+"Hata,  Yusei",,
+"Castiglioni,  Niccolò",1932.0,1996.0
+"La Barbara,  Joan",1947.0,9999.0
+"Stradella,  Alessandro",1643.0,1682.0
+"Nessler,  Viktor  Ernst",1841.0,1890.0
+"Davidovsky,  Mario",1934.0,2019.0
+"Aizenstadt,  David",,
+"Dick,  Robert",1811.0,1866.0
+"Westmoreland,",0.0,9999.0
+"Koechlin,  Charles",1867.0,1950.0
+"Markevitch,  Igor",1912.0,1983.0
+"Ireland,  John",1911.0,2006.0
+"Davis,  Anthony",1993.0,2012.0
+"Doppler,  (Albert)  Franz",,
+"Jolson,  Al",1886.0,1950.0
+"Green,  Arthur  N.",,
+"Tcherepnin,  Alexander",1899.0,1977.0
+"Sharp,  Earl  Cranston",,
+"Lisle,  Claude-Joseph  R. De",,
+"Nesvadba,  Josef",1926.0,2005.0
+"Galesi,  Julian",,
+"Guettel,  Adam",1964.0,9999.0
+"Chen,  Qigang",1951.0,1984.0
+"Bermel,  Derek",1967.0,9999.0
+"Rzewski,  Frederic",1938.0,9999.0
+"Padilla,  José",1829.0,1896.0
+"Horst,  Louis",1884.0,1964.0
+"Stokowski,  Leopold",1882.0,1977.0
+"Pagan,  Abraham",,
+"Caplet,  Andre [André]",1878.0,1925.0
+"Scalero,  Rosario",1870.0,1954.0
+"Mihalovici,  Marcel",1898.0,1985.0
+"Nabokov,  Nicolas",1903.0,1978.0
+"Fernandez Arbos,  Enrique",1863.0,1939.0
+"Dargomiszky,  Alexander",,
+"Celestin,  Austin",,
+"Kelley,  Edgar  Stillman",1857.0,1944.0
+"Rosenblatt,  Y.",,
+"Konoye,  Hidemaro",1898.0,1973.0
+"Rechtman,  Ilan",1963.0,9999.0
+"Maurer,  Ludwig  Wilhelm",1789.0,1878.0
+"Lipinsky,  Karl  Joseph",,
+"Murray,  Lyn",1909.0,1989.0
+"Bellini,  Renato",,
+"Street,  Tison",1943.0,1951.0
+"Klughardt,  August",1847.0,1902.0
+"Chaminade,  Cécile",1857.0,1944.0
+"Grisey,  Gerard",1946.0,1998.0
+"David,  Ferdinand",1810.0,1873.0
+"Donostia,  Padre  (San Sebastian, P. Jose Antonio ne Zulaica)",,
+"Addinsell,  Richard",1904.0,1977.0
+"Dodd,  Jimmie",1910.0,1964.0
+"Malats,  Joaquin",,
+"Zador,  Eugen",,
+"Hanley,  James  F.",1892.0,1942.0
+"Read,  Gardner",1913.0,2005.0
+"Haieff,  Alexei",1914.0,1994.0
+"Artsibushev,  Nikolai  Vassilievitch",,
+"Miyagi,  Michio",1894.0,1956.0
+"Zelenka,  Jan  Dismas",1679.0,1745.0
+"Moske,  Nina",,
+"Herbert,  Rajon",,
+"Sichel,  John",1937.0,2005.0
+"Schuyler,  Philippa  Duke",1931.0,1967.0
+"Mannes,  Nathan",,
+"Soderman [Söderman],  August",1832.0,1876.0
+"Fujikura,  Dai",1977.0,9999.0
+"Moravec,  Paul",1957.0,2004.0
+"Paunio,  Pyry",,
+"Rivier,  Jean",1896.0,1987.0
+"Tsypin,  Vladimir",,
+"Emmett,  Daniel  Decatur",1815.0,1904.0
+"Press,  Jacques",,
+"Infante,  Manuel",1883.0,1958.0
+"Elkjer,  Robert",,
+"Sinopoli,  Giuseppe",1946.0,2001.0
+"Gontarcyk,  Nikita",,
+"Bacharach,  Burt",1928.0,2014.0
+"Sibella,  Gabrielle",,
+"Josten,  Werner",1885.0,1963.0
+"Hartke,  Stephen",1952.0,2013.0
+"Donatoni,  Franco",1927.0,2000.0
+"Mazzoli,  Missy",1980.0,2018.0
+"Rollins,  Walter  E.",1906.0,1973.0
+"Marcello,  Benedetto",1686.0,1739.0
+"Pereira,  Joseph",0.0,9999.0
+"Eysler,  Edmund",1874.0,1949.0
+"Costeley,  Guillaume",1530.0,1531.0
+"Laucella,  Nicola",1882.0,1952.0
+"Stringham,  Edwin  S.",,
+"Kravath,  Lilly",,
+"Tubin,  Eduard",1905.0,1982.0
+"Fesca,  Alexander  (Ernst)",,
+"Mills,  Sebastian  Bach",1839.0,1898.0
+"Rietz,  Julius",1812.0,1877.0
+"Villegas,  Mondriana",,
+"Fisher,  Fred",1875.0,1942.0
+"Somervell,  Sir  Arthur",,
+"Brant,  Henry",1913.0,2008.0
+"Layton,  Turner",1894.0,1978.0
+"Lieurance,  Thurlow",1878.0,1963.0
+"Bruneau,  Alfred",1857.0,1934.0
+"Novacek,  Ottokar  (Eugen)",,
+"Schenck,  Elliott",,
+"Arancio,  Julia",,
+"Thorvaldsdottir,  Anna",1977.0,2012.0
+"Newman,  Alfred",1924.0,2019.0
+"Joachim,  Joseph",1831.0,1907.0
+"Herman,  Jerry",1931.0,2009.0
+"Nick,  Edmund",1891.0,1891.0
+"Sgambati,  Giovanni",1841.0,1914.0
+"Duke,  Vernon",1903.0,1969.0
+"Eichheim,  Henry",1870.0,1942.0
+"Kamen,  Michael",1948.0,2003.0
+"Vitols,  Jazeps",1863.0,1948.0
+"McKinley,  Carl",1895.0,1966.0
+"Salieri,  Antonio",1750.0,1825.0
+"Benedict,  Jules",1879.0,1948.0
+"De Paul,  Gene",1919.0,1988.0
+"Westlake,  Nigel",1958.0,9999.0
+"Goldbeck,  Robert",,
+"Hall,  Guy",,
+"Bernstein,  Elmer",1922.0,2004.0
+"Katscher,  Robert",,
+"Rumshinsky,  Joseph",1881.0,1956.0
+"Vejvanovsky,  Pavel  Josef",1633.0,1639.0
+"Lange,  Samuel  de, Jr.",,
+"Clementi,  Muzio",1752.0,1832.0
+"Horsman,  Edward  Imeson, Jr.",,
+"Gardel,  Carlos",1890.0,1935.0
+"Conus,  Jules",1869.0,1942.0
+"Bagley,  Edwin  Eugene",1857.0,1922.0
+"Bochsa,  Robert  N. C.",,
+"Dedrick,  Christopher",0.0,9999.0
+"Mancini,  Henry",1924.0,1994.0
+"Trojahn,  Manfred",1949.0,9999.0
+"Huber,  Hans",1852.0,1921.0
+"Brey,  Carter",1954.0,1981.0
+"Eckert,  Karl",1820.0,1879.0
+"Hanson,  Graydon",,
+"Lees,  Benjamin",1924.0,2010.0
+"Borishansky,  Elliot",,
+"Levenson,  Boris",1884.0,1947.0
+"Taslima,  Farah",,
+"Gosfield,  Annie",1960.0,2012.0
+"Antheil,  George",1900.0,1959.0
+"Holland,  M.  Roger, III",,
+"Ivanovici,  Ion",1845.0,1902.0
+"Mana Zucca,",1885.0,1981.0
+"Hertel,  Johann  Wilhelm",1727.0,1789.0
+"Wolfe,  Julia",1958.0,2015.0
+"Collins,  Anthony",1676.0,1729.0
+"Haubiel,  Charles",1892.0,1978.0
+"Botti,  Susan",,
+"Rose,  Peter de",1900.0,1953.0
+"Nono,  Luigi",1924.0,1990.0
+"Coolidge,  Elizabeth  Sprague",1864.0,1953.0
+"Ruo,  Huang",1976.0,9999.0
+"McGlaughlin,  William",1943.0,1981.0
+"Hoeller,  York",1944.0,9999.0
+"Moya,  Antoni  Perez",1884.0,1964.0
+"Macero,  Teo",1925.0,2008.0
+"Sonzogno,  Giulio  Cesare",,
+"Beaser,  Robert",1954.0,9999.0
+"Drummond,  Dean",1949.0,2013.0
+"Bates,  Mason",1977.0,9999.0
+"Fiedler,  Max",1859.0,1939.0
+"Barry,  John",0.0,9999.0
+"Loewe,  Johann  Carl",,
+"Basie,  Count",1904.0,1984.0
+"Gilbert,  David",0.0,9999.0
+"Iwamoto,  Yuki",,
+"Garner,  Erroll",1923.0,1977.0
+"Pasek,  Benj",2007.0,9999.0
+"Taneyev,  Sergei",1856.0,1915.0
+"Brown,  Nacio  Herb",1896.0,1964.0
+"Davis,  Jimmie",1899.0,2000.0
+"Auerbach,  Lera",1973.0,9999.0
+"Widmann,  Jorg [Jörg]",1973.0,2018.0
+"Zimmermann,  Bernd  Alois",1918.0,1970.0
+"Green,  DeAnte",,
+"Williams,  Aleaster",,
+"Goodman,  Al",1890.0,1972.0
+"Bresnick,  Martin",1946.0,9999.0
+"Kahane,  Gabriel",1981.0,9999.0
+"Weber-Berlioz,",,
+"Umezaki,  Kojiro",,
+"Lee,  Dai-Keong",1915.0,2005.0
+"Palau Boix,  Manuel",1893.0,1967.0
+"Yim,  Jay  Alan",1958.0,1994.0
+"Raksin,  David",1912.0,2004.0
+"Argento,  Dominick",1927.0,2019.0
+"Vitali,  Tomaso  Antonio",1663.0,1745.0
+"Reissiger,  Karl  Gottlieb",1798.0,1859.0
+"Hill,  Warren",2015.0,9999.0
+"Draeseke,  Felix",1835.0,1913.0
+"Gaubert,  Philippe",1879.0,1941.0
+"Guiraud,  Ernest",1837.0,1892.0
+"Saperton,  David",1889.0,1970.0
+"Baron,  Maurice",,
+"Acqua,  Eva dell'",,
+"Giordani,  Giuseppe",1751.0,1798.0
+"Frankel,  Ari",,
+"Kempter,  Lothar",1844.0,1918.0
+"Noble,  Ray",1903.0,1974.0
+"Riley,  Terry",1935.0,1964.0
+"Bruce,  David",0.0,9999.0
+"Martino,  Donald",1931.0,2005.0
+"Janssen,  Werner",1899.0,1990.0
+"Falcon [Falcón] Sanabria,  Juan  José",,
+"Brooks,  Calie",,
+"Bjork [Björk],",1965.0,1987.0
+"Babin,  Victor",1909.0,1992.0
+"Novick,  Nathan",,
+"Fischer,  J.",1771.0,1853.0
+"O'Hara,  Geoffrey",1882.0,1967.0
+"Durante,  Francesco",1684.0,1755.0
+"Cunningham,  Arthur",1928.0,1997.0
+"Duble,  Charles  Edward",,
+"Carrick,  Richard",1971.0,2015.0
+"Dragoi,  Sabin  V(asile)",,
+"Marx,  Joseph",1882.0,1964.0
+"Perry,  Julia",1924.0,1979.0
+"Colgrass,  Michael",1932.0,2019.0
+"Bassett,  Leslie",1923.0,2016.0
+"Botti,  Chris",1962.0,2013.0
+"Miki,  Minoru",1930.0,2011.0
+"Heuberger,  Richard",1850.0,1914.0
+"Alexander,  Andre",1967.0,1989.0
+"Oliver,  Melvin ""Sy""",,
+"Mossman,  Ted",,
+"Wallace,",0.0,9999.0
+"Sainton,  Prosper",1813.0,1890.0
+"Fischer,  Carl",1905.0,1963.0
+"Galas [Galás],  Diamanda",1955.0,9999.0
+"Perez-Freire,  Osman",,
+"Becton,  Shelton  L.",,
+"Theofanidis,  Christopher",1967.0,1994.0
+"Jacob,  Gordon",1895.0,1984.0
+"Andreae,  Volkmar",1879.0,1962.0
+"Rolla,  Allesandro",,
+"Cannon,  Hughie",1877.0,1912.0
+"Baerman,  Heinrich  Joseph",,
+"Gabrieli,  Andrea",1532.0,1533.0
+"Horowitz,  Vladimir",1903.0,1989.0
+"Buxtehude,  Dietrich",1637.0,1707.0
+"Kurka,  Robert",1921.0,1957.0
+"Schroeder,  William",0.0,9999.0
+"Broome,  Edward",,
+"Lortzing,  Albert",1801.0,1851.0
+"Novak,  Vitezslav",1870.0,1949.0
+"Dessau,  Paul",1894.0,1979.0
+"Pinto,  Octavio",1890.0,1950.0
+"Kalhor,  Kayhan",1963.0,9999.0
+"Smalls,  Charlie",1943.0,1987.0
+"Hoover,  Duke",,
+"Stoessel,  Albert",1894.0,1943.0
+"Mouquet,  Jules",1867.0,1946.0
+"Graener,  Paul",1872.0,1944.0
+"Guilmant,  Alexander",1837.0,1911.0
+"Bielawa,  Lisa",1968.0,2009.0
+"Shaw,  Lowell",,
+"Goltermann,  Georg  Eduard",,
+"Holyoke,  Samuel",1762.0,1820.0
+"Detrick,  Zachary",,
+"Freire,  Osman  Perez",1878.0,1930.0
+"Merceron,",0.0,9999.0
+"Tom,  Emma",1969.0,2001.0
+"Skrowaczewski,  Stanislaw",1923.0,2017.0
+"Berners,  Lord",1883.0,1950.0
+"Kent,  Walter",1911.0,1994.0
+"Sweet,  Reginald",,
+"Subotnick,  Morton",1933.0,1967.0
+"Rathbone,  George",,
+"Perapaskero,  Sapo",,
+"Godowsky,  Leopold",1870.0,1938.0
+"Rossi,  Francesco",1977.0,1991.0
+"Friedsell,  Louis",1863.0,1865.0
+"Nelson,  Rudolf",1878.0,1960.0
+"Gossec,  Francois  Joseph",1734.0,1829.0
+"Van Der Stucken,  Frank",,
+"Homer,  Sidney",1864.0,1953.0
+"Anderson,  Paquita",,
+"Oberthur,  Charles",1845.0,1924.0
+"Mackey,  Steven",1956.0,9999.0
+"Pryor,  Arthur",1869.0,1942.0
+"Cheung,  Anthony",1952.0,2012.0
+"Loder,  George, Jr.",,
+"Violette,  Wesley  La",1894.0,1978.0
+"Porter,  Quincy",1897.0,1966.0
+"Lyapunov,  Sergius  Mikhailovich",,
+"Koussevitzky,  Serge",1874.0,1951.0
+"Confrey,  Zez",1895.0,1971.0
+"Baum,  Parker",,
+"Duvernoy,  Frederic  Nicolas",,
+"Lessner,  George",,
+"Lumbye,  Hans Christian",1810.0,1874.0
+"Kubelik [Kubelík],  Rafael",1914.0,1996.0
+"Palmer,  Robert",0.0,9999.0
+"Schnyder,  Daniel",1961.0,9999.0
+"Romberg,  Bernhard",1767.0,1841.0
+"Gooch,  William",1681.0,1751.0
+"Tchesnokoff,  Pavel",,
+"Goldfaden,  Abraham",1840.0,1908.0
+"Rebikov,  Vladimir  Ivanovich",1866.0,1920.0
+"Kirnberger,  Johann  Philipp",1721.0,1783.0
+"Mitchell,  Brian  Stokes",1957.0,2000.0
+"Karlowicz,  Mieczyslaw",1876.0,1909.0
+"Altman,  Arthur",1910.0,1994.0
+"Schultze,  Johann  Christian",,
+"Serocki,  Kazimierz",1922.0,1981.0
+"Williams,  Hank",1923.0,1953.0
+"Bolzoni,  Giovanni",1841.0,1919.0
+"Monterde,  Bernardino  Bautista",,
+"Sierra,  Roberto",1953.0,9999.0
+Beal,0.0,9999.0
+"Roland-Manuel,  Alexis",1891.0,1966.0
+"Field,  John",1886.0,1979.0
+"Destouches,  Andre  Cardinal",1672.0,1749.0
+"Klenner,  John",1899.0,1955.0
+"New Orleans Rhythm Kings,",0.0,9999.0
+"Levine,  Julius",,
+"Dubin,  Al",1891.0,1945.0
+"Westerhout,  Nicola  van",1857.0,1898.0
+"Doret,  Gustave",1866.0,1943.0
+"Liao,  Shuwen",,
+"Robin,  Yann",,
+"Bull,  John",0.0,9999.0
+Perlmutter,1845.0,1941.0
+"Howe,  Mary",1882.0,1964.0
+"Davies,  Tansy",1973.0,1996.0
+"Lorenz,  Carl",1913.0,1993.0
+"Donaudy,  Stefano",1879.0,1925.0
+"Meij,  Johan de",1953.0,9999.0
+"Bernie,  Ben",1891.0,1943.0
+"Sandidge,  Daniel",,
+"Benda,  Jirí (Georg)  Antonín (Anton)",,
+"McPhee,  Colin",1900.0,1964.0
+"Lash,  Hannah",1981.0,9999.0
+"Harvey,  Jonathan",1939.0,2012.0
+"Durakovic,  Amina",,
+"Mills,  Charles",0.0,9999.0
+"Slonimsky,  Nicolas",1894.0,1995.0
+"Mingus,  Charles",1922.0,1979.0
+"Kjerulf,  Halfdan",1815.0,1868.0
+"Arotsky,  Sheridan",,
+"Otterstrom,  Thorvald",,
+"Spontini,  Gasparo",1774.0,1851.0
+"Langgaard,  Rued",1893.0,1952.0
+"Barrymore,  Lionel",1878.0,1954.0
+"Senfl,  Ludwig",1486.0,1542.0
+"Richman,  Lucas",1964.0,2010.0
+"Ergun,  Cenk",,
+"Zilcher,  Hermann",1881.0,1948.0
+"Kessler,  James C.",,
+"Chajes,  Julius",,
+"Andersen,  Joachim",1847.0,1909.0
+"Don Alfonso-Carriola,",,
+"Bazzini,  Antonio",1818.0,1897.0
+"Ellstein,  Abraham",1907.0,1963.0
+"Lindner,  August",,
+"Bohm,  Carl",1844.0,1920.0
+"Weber,  Ben",1916.0,1979.0
+"Calvisius,  Sethus",1556.0,1615.0
+"Brubeck,  Howard",1916.0,1993.0
+"Nowowiejski,  Felix",,
+"Mourant,  Walter",,
+"Tobias,  Charles",1898.0,1970.0
+"Dowland,  John",1563.0,1626.0
+"Thomas,  Arthur  Goring",1850.0,1892.0
+"Meyerowitz,  Jan",1913.0,1998.0
+"Gerhard,  Roberto",1896.0,1970.0
+"Zhao,  Lin",1932.0,1968.0
+"Svane,  Randall",1955.0,2005.0
+"Delamarter,  Eric",,
+"Jensen,  Ludwig  Irgens",,
+"Halffter,  Ernesto",1905.0,1989.0
+"Servais,  Adrien  Francois",1807.0,1866.0
+"Osgood,  James  R.",1836.0,1892.0
+"Prestini,  Paola",2011.0,9999.0
+"Carmichael,  Hoagy",1899.0,1981.0
+"Araujo,  Benjamin",1900.0,1928.0
+"Piovani,  Nicola",1946.0,1998.0
+"Djawadi,  Ramin",1974.0,2008.0
+"Bronsart,  Hans  Von",,
+"Rogalski,  Theodor",,
+"Paulus,  Stephen",1949.0,2014.0
+"McManus,  Andrew",2008.0,2014.0
+"Koutzen,  Boris",1901.0,1966.0
+"Tyzik,  Jeff",1951.0,9999.0
+"Swift,  Kay",1897.0,1993.0
+"Serly,  Tibor",1901.0,1978.0
+"Williams,  Spencer",1889.0,1965.0
+"Newman,  Thomas",1955.0,2000.0
+"Mantovani,  Bruno",1974.0,1993.0
+"Conrad,  Con",1891.0,1938.0
+"Louiguy,  Louis",,
+"Blanchet,  Emile  R.",,
+"Rodine,  Saevar",,
+"Bonporti,  Francesco  Antonio",1672.0,1749.0
+"Pichardo,  Edward",,
+"Meyers, Billy,  Schoebel, Elmer  and",,
+"Donaldson,  Walter",1893.0,1947.0
+"Berio,  Adolfo",,
+"Barraud,  Henri",1900.0,1997.0
+"Kellaway,  Roger",1939.0,9999.0
+"Valentini,  Giuseppe",1681.0,1753.0
+"Wagner,  Siegfried",1869.0,1930.0
+"Russo,  William",1912.0,1975.0
+"Sauter,  Eddie",1914.0,1981.0
+"Nanino,  Giovanni  Maria",1543.0,1544.0
+"Gannon,  James ""Kim""",1900.0,1974.0
+"Lavry,  Marc",1903.0,1967.0
+"Burmeister,  Richard",1860.0,1944.0
+"Musgrave,  Thea",1928.0,1972.0
+"Peel,",0.0,9999.0
+"Bowen,  York",1884.0,1961.0
+"Solano,",0.0,9999.0
+"Binet,  Jean",,
+"Witt,  Friedrich",1770.0,1836.0
+"Hofmann,  Josef",1876.0,1957.0
+"Turano,  Olivia",,
+"Erb,  Donald",1927.0,2008.0
+"Fairchild,  Blair",1877.0,1933.0
+"Ettinger,  Max",,
+"Vaclavik,  Jude",,
+"Willis,  Richard  Storrs",1819.0,1900.0
+"Simonson,  Victor",,
+"Krawczyk,  Franck",,
+"Arne,  Thomas",1710.0,1778.0
+"Savino,  Domenico",1882.0,1973.0
+"Gernsheim,  Friedrich",1839.0,1916.0
+"Baum,  Sabrina",,
+"Maslanka,  David",1943.0,2017.0
+"Ashimine,  Shuono",,
+"Martini,  Giovanni  Battista",1706.0,1784.0
+"Rickett,  Edmond",,
+"Dawson,  Mary  Cardwell",1894.0,1962.0
+"Ladmirault,  Paul  Emile",,
+"Palmgren,  Selim",1878.0,1951.0
+"Jadin,  Louis  Emmanuel",1768.0,1853.0
+"Kerby,  Paul",,
+"Ramos,  Ben",1956.0,1994.0
+"Zelenaia,  Margarita",,
+"Adler,  Richard",1921.0,2012.0
+"Floyd,  Carlisle",1926.0,1955.0
+"Rosenthal,  Moritz",1862.0,1946.0
+"Eberl,  Anton",1765.0,1807.0
+"Lerdahl,  Fred",1943.0,2001.0
+"Bozza,  Eugene  Joseph",1905.0,1991.0
+"Bruhns,  Arthur",1874.0,1928.0
+"Vittoria,  Tomasso",,
+"Rathaus,  Karol",1895.0,1954.0
+"Kornauth,  Egon",1891.0,1959.0
+"Andrico,  Michel  G.",,
+"Certon,  Pierre",1510.0,1520.0
+"Fitelberg,  Jerzy",1903.0,1951.0
+"Rangstrom,  Ture",1884.0,1947.0
+"Nathan,  Eric",,
+"Mason,  William",1837.0,1913.0
+"Ingraham,  George",,
+"Cohn,  Ethan",1979.0,9999.0
+"Rodgers,  Mary",1931.0,2014.0
+"Nancarrow,  Conlon",1912.0,1997.0
+"Henry,  Aaron",1922.0,1997.0
+"Lohr [Löhr],  Herman",,
+"Sacchini,  Antonio",1730.0,1786.0
+"Currier,  Sebastian",1959.0,1999.0
+"Weerakkody,  Suvani",,
+"Trifonov,  Daniil",1991.0,2018.0
+"Golestan,  Stan",,
+"Biebl,  Franz",1906.0,2001.0
+"Pato and Tong,  Christina and Wu",,
+"Corby,  Mabelanna",,
+"Keillor,  Garrison",1942.0,1974.0
+"Cohen,  Sol  B",,
+"Romen,  Louis",,
+"Ortolani,  Riziero ""Riz""",,
+"Boehme,  Oskar",1870.0,1938.0
+"Sihanouk,  King  Norodom",1922.0,2012.0
+"Siguencia,  Marvin",,
+"Joslyn,  Henry",,
+"Bach, J. S. -Gounod,",,
+"Raisin,  A.",,
+"Balendonck,  Armand",,
+"Wilder,  Alec",1907.0,1980.0
+"Perilhou,  Albert",1846.0,1936.0
+"Work,  Henry  Clay",1832.0,1884.0
+"Austin,  Larry",1930.0,2018.0
+"Bell,  William  Henry",1873.0,1946.0
+"Di Castri,  Zosha",2019.0,9999.0
+"Cipriani,  Stelvio",1937.0,2018.0
+"Holborne,  Anthony",1545.0,1602.0
+"Tierney,  Harry",1890.0,1965.0
+"Cui,  Cesar [César]",1835.0,1918.0
+"Sartori,  Francesco",1957.0,9999.0
+"Kummer,  Friedrich  August",1797.0,1879.0
+"Alnaes,  Eyvind",1872.0,1932.0
+"Arbo,  Miguel  Asins",,
+"Satoh,  Somei",1947.0,9999.0
+"Laderman,  Ezra",1924.0,2015.0
+"Schenk,  Robert  C.",,
+"Morley,  Thomas",1557.0,1558.0
+"Lachau,  Countess  Ada  de",,
+"Hahn,  Reynaldo",1874.0,1947.0
+"Wehrli,  Werner",,
+"Sobol,  Dr.  Mordechai",,
+"Grantham,  Donald",1947.0,9999.0
+"Malin and Cordero,  Leslie and Percaiz",,
+"Lassus,  Orlande  De",,
+"Hasse,  Johann  Adolph",1699.0,1783.0
+"Hagen,  Daron",1961.0,9999.0
+"Dorsey,  Thomas  Andrew",1899.0,1993.0
+"Hendl,  Walter",1917.0,2007.0
+"Utagawa,  Karin",,
+"Chen,  N.",,
+"Masson [Másson],  Askell [Áskell]",,
+"Parish-Alvars,  Elias",1808.0,1849.0
+"Juarez,  Demicis",,
+"Hughes,  Herbert",1882.0,1937.0
+"Sussan,  Leo",,
+"Reno,  Anais",,
+"Tailleferre,  Germaine",1892.0,1983.0
+"Johns,  Clayton",,
+"Mercurio,  Steven",1956.0,2019.0
+"Rubetz,  A.  T.",,
+"Warshaw,  Dalit  Paz",,
+"Becker,  John  J.",1886.0,1961.0
+"Ehrenberg,  Carl  Emil Theodor",1878.0,1962.0
+"Caturla,  Alejandro  García",1906.0,1940.0
+"Fuchs,  Kenneth",1956.0,9999.0
+"Hawkins,  Walter",1949.0,2010.0
+"Grafe,  Max",,
+"Spielmann,  Fritz",1933.0,2009.0
+"Odessaer,  Bulgar",,
+"Cassado [Cassadò],  Gaspar",1897.0,1966.0
+"Ware,  Harriet",1799.0,1832.0
+"Flaherty,  Stephen",1960.0,9999.0
+"Simon,  Nat",1900.0,1979.0
+"Fisher,  Marvin",,
+"Hausegger,  Siegmund  von",1872.0,1948.0
+"Iyer,  Vijay",1971.0,2013.0
+"Achron,  Isidor",1892.0,1948.0
+"Wilensky,  Moshe",1910.0,1997.0
+Pola,0.0,9999.0
+"Moeran,  Ernest  John",1894.0,1950.0
+"Leginska,  Ethel",1886.0,1970.0
+"Espiritusanto,  Ashanti",,
+"Pugatchov,  Emanuel",,
+"Woodman,  Raymond  Huntington",,
+"McHugh,  Jimmy",1894.0,1969.0
+"Noble,  T.  Tertius",1867.0,1953.0
+"Striegler,  Kurt",,
+"Ferro,  Nicola",,
+"Liu,  Tianhua",,
+"Mendelssohn Hensel,  Fanny",1805.0,1847.0
+"Merrick,  Mahlon  Legrand",,
+"Egan,  Elizabeth",,
+"Hosmer,  Lucius",,
+"De la Monnoye,  Bernard",,
+"Horowitz,  Joseph",1948.0,1992.0
+"Hesketh,  Kenneth",1968.0,9999.0
+"Sammartini,  Giuseppe",1695.0,1750.0
+"Monaco,  James  V.",1885.0,1945.0
+"Lewis,  George",0.0,9999.0
+"Wilson,  Mortimer",1876.0,1932.0
+"Newley,  Anthony",1931.0,1999.0
+"Ozone,  Makato",,
+"Smit,  Leo",1921.0,1999.0
+"Wallace,  David",0.0,9999.0
+"Muradeli,  Vano",1908.0,1970.0
+"Iwamoto,  Hiroaki",,
+"MacLean,",0.0,9999.0
+"Chiaffarelli,  Albert",,
+"Maxwell,  Elsa",1883.0,1963.0
+"Kim,  Earl",1920.0,1998.0
+"Meacham,  Frank  W.",1856.0,1909.0
+"Wooldridge,  John",1919.0,1958.0
+"Vistel,  Douglas",,
+"Berkeley,  Sir  Lennox",,
+"Paulino,  Carlos",,
+"Schedel,  Margaret",,
+"Susaki,  Asuka",,
+"Darcieux,  Francisque",,
+"Boskerck,  Francis Saltus  Van",,
+"Root,  George  Frederick",1820.0,1895.0
+"Golde,  Walter",,
+"Lachert,  Piotr",1938.0,2018.0
+"Haber,  Yotam",2005.0,2007.0
+"Streisand,  Barbra",1942.0,1983.0
+"Seltzer,  Dov",1932.0,9999.0
+"Tanabe,  Aline  Sauvegrain",,
+"Yradier,  Sebastian",1809.0,1865.0
+"Goublier,",,
+"Bardanashvili,  Josef",1948.0,9999.0
+"Albright,  William",1891.0,1971.0
+"Satter,  Gustave",1832.0,9999.0
+"Mattfeld,  Julius",,
+"Leigh,  Mitch",1928.0,2014.0
+"Camarata,  Tutti",1913.0,2005.0
+"Liang,  Lei",1972.0,9999.0
+"Bautista,",1979.0,1984.0
+"Johansen,  David  Monrad",1888.0,1974.0
+"Nordoff,  Paul",1909.0,1977.0
+"Williams,  John  Gerard",,
+"Koper,  Karl-Heinz  (Köper)",,
+"Xu,  Peidong",,
+"Jones,  Charles",0.0,9999.0
+"Popp,",1869.0,1939.0
+"Staud,  Johannes  Maria",1974.0,9999.0
+"Hermann,  Hans",1892.0,1924.0
+"Alessandresco,  Alfred",,
+"Zabel,  Albert  Heinrich",,
+"Raposo,  Joe",1937.0,1989.0
+"Furstenau,  Anton  Bernhard",1792.0,1852.0
+"Rodriguez,  Gerardo  Matos",1897.0,1948.0
+"Kremser,  Eduard",,
+"Yoder,  Paul  V.",1908.0,1990.0
+"Rosenman,  Leonard",1924.0,2008.0
+"Nicholson,  Charles",1808.0,1903.0
+"Teschner,  Melchior",1584.0,1635.0
+"Jatta,  Musa, Jr.",,
+"Dodworth,  Allen",,
+"Gallico,  Paolo",,
+"Wigglesworth,  Ryan",1979.0,9999.0
+"Gang and He,  Chen and Zhanhao",,
+"Bosmans,  Arturo",,
+"Mustonen,  Olli",1967.0,9999.0
+"Guenther,  Felix",,
+"Southall,  Mitchell  B.",,
+"Choi,  Elli",,
+"Escaich,  Thierry",1965.0,9999.0
+"Lauridsen,  Morten",1943.0,2007.0
+"Hyland,  Theoren",,
+"D'Ver,  Ethan",,
+"Karlsen,  Kjell  Mørk",1947.0,9999.0
+"Jackno,  Ralph  John",,
+"Grunn,  Homer",,
+"Murphy,  Walter",1952.0,1976.0
+"Borge,  Victor",1909.0,2000.0
+"Pimsleur,  Solomon",,
+"Campra,  Andre",1660.0,1744.0
+"Eisler,  Hans",1898.0,1962.0
+"Johnstone,  Maurice",,
+"Lalande,  Michel-Richard  De",1657.0,1726.0
+"Ellis,  Kenny",,
+"Manon [Mañon],  Cesar",,
+"Burgess,  Lord",1924.0,2019.0
+"Perez,  Edward",,
+"Gilson,  Paul",1865.0,1942.0
+"Schwartz,  Elliott",1936.0,2016.0
+"Mair,  Franz",,
+"Penella,  Manuel",1880.0,1939.0
+"Le Flem,  Paul",1881.0,1984.0
+"Maciste,",0.0,9999.0
+"Hersch,  Michael",1971.0,9999.0
+"Green,  Joe",0.0,9999.0
+"Cooke,  Arnold",1906.0,2005.0
+"Sieveking,  Martinus",1867.0,1950.0
+"Gumbert,  Friedrich  Adolf",,
+"Hardelot,  Guy  d'",1858.0,1936.0
+"Balassa,  Sandor",,
+"Drattell,  Deborah",1954.0,9999.0
+"Leoni,  Franco",1864.0,1949.0
+"Ying,  Qing",,
+"Alt,  Bernhard",,
+"Alvars,  Paris",,
+"Nerini,  Emile",,
+"Grip,  Eric",,
+"Lajarte,  Theodore  Eduard DuFaure",,
+"Davison,  Harriette",,
+"Williams,  Mary Lou",1910.0,1981.0
+"Bergner,  Frederick",,
+"Amiran,  Emanuel",,
+"Feliciano,  José",1945.0,1968.0
+"Ambrose,  Paul",1868.0,1941.0
+"Weaver,  Powell",1890.0,1951.0
+"Barnes,  Edward  Shippen",1887.0,1958.0
+"Farwell,  Arthur",1872.0,1952.0
+"Neidlinger,  William  Harold",,
+"Shefter,  Bert",1902.0,1999.0
+"Reeves,  David  Wallis",1838.0,1900.0
+"Hiramoto,  Wataru",,
+"Guizar,  Pepe",1906.0,1980.0
+"Lindroth,  Scott",1958.0,1990.0
+"Marcelli,  Nino",1890.0,1967.0
+"Nikocevic,  Elmir",,
+"Spencer,  Victoria",1965.0,9999.0
+"Won,  Taehyun",,
+"Albert,  Stephen",1941.0,1992.0
+"Sager, Carol Bayer,  Foster, David",,
+"Turner,  Godfrey",,
+"Cliburn,  Van",1934.0,2013.0
+"Modugno,  Domenico",1928.0,1994.0
+"Gaber,  Harley",1943.0,2011.0
+"Farina,  Carlo",1600.0,1639.0
+"Peaslee,  Richard",1930.0,2016.0
+"Kowal,  M",,
+"Wengert,  Jules",,
+"Holliger,  Heinz",1939.0,9999.0
+"Green,  John",0.0,9999.0
+"Barnett,  David",0.0,9999.0
+"Hampton,  Calvin",1938.0,1984.0
+"Koyama,  Kiyoshige",1914.0,2009.0
+"Bazelon,  Irwin",1922.0,1995.0
+"Rodriguez [Rodríguez],  Arsenio",1911.0,1970.0
+"Gungl [Gung'l],  Joseph",1809.0,1889.0
+"Harris,  Charles",0.0,9999.0
+"Eilenberg,  Richard",1848.0,1927.0
+"Dussek,  Jan  Ladislav",1760.0,1812.0
+"Zachow,  Friedrich  Wilhelm",1663.0,1712.0
+"Fure,  Ashley",1982.0,2017.0
+"McFadyen,",0.0,9999.0
+"De Fontenailles,  Henri",,
+"Montemezzi,  Italo",1875.0,1952.0
+"Colella,  Jeff",,
+"Fulmer,  David",0.0,9999.0
+"Elwell,  Herbert",1898.0,1974.0
+"Livingston,  Alan",1917.0,2009.0
+"Schytte,  Ludvig",1848.0,1909.0
+"Kalman,  Charles",,
+"Campbell-Tipton,  Louis",1877.0,1921.0
+"Doyle,  Patrick",1953.0,1989.0
+"Anderson,  Robert  Alex",,
+"Stor,  Jean",,
+"Piccinni,  Nicola",,
+"Sierra,  Arlene  Elizabeth",0.0,9999.0
+"Hague,  Charles",1769.0,1821.0
+"Forsyth,  Cecil",1870.0,1941.0
+"Watanabe,  Harumi",,
+"MacHugh,  Jimmy",,
+"Catel,  Charles  Simon",1773.0,1830.0
+"Hoffman,  Solomon",,
+"Lorenziti,  Bernard",,
+"Mamorsky,  Morris",,
+"Larregla,  Joaquin",,
+"Westerman,  Gerhart von",,
+"Block,  Frederick",,
+"Zuraj,  Vito",1979.0,9999.0
+"Leschetizky,  Theodor",1830.0,1915.0
+"West,  Benjamin",1738.0,1820.0
+"Rosenmuller,  Johannes",,
+"Garat,  Pierre",1764.0,1823.0
+"Kovacs [Kovács],  Bela [Béla]",,
+"Haggart,  Bob",1914.0,1998.0
+"Ustvolskaya,  Galina",1919.0,2006.0
+"Vorisek,  Jan  Vaclav",1791.0,1825.0
+"Chinn,  Genevieve",,
+"Metzdorff,  Richard",,
+"Dworsky and Blaske,  Richard and Lee",,
+"Spinelli,  Niccola",1865.0,1909.0
+"Novak,  Jan",0.0,9999.0
+"Eiger,",1858.0,1938.0
+"Bensman,  M.",,
+"Vecchi,  Orazio",1550.0,1605.0
+"Cerha,  Friedrich",1926.0,9999.0
+"Taylor, Brooks & Stanley,",,
+"Farnon,  Robert  J.",,
+"Marais,  Josef",1905.0,1978.0
+"Stevens,  Cassandra",,
+"Gabaye,  Pierre",1930.0,1956.0
+"Johnson,  John  Rosamund",,
+"Verzano,",,
+"Dale,  Benjamin  James",,
+"Green,  Johnny",1908.0,1989.0
+"Distler,  Hugo",1908.0,1942.0
+"Kagel,  Mauricio",1931.0,2008.0
+"Strube,  Gustav",1867.0,1953.0
+"Corghi,  Azio",1937.0,2005.0
+"Fruehling,  Carl",1868.0,1937.0
+"Pugh,  James",1820.0,1907.0
+"Duery,  Louis",,
+"Myers,  Laurie",,
+"Mollenhauer,  Edward",1827.0,1914.0
+"Gates,  Dorothy",,
+"May,  Billy  & Kenton, Stan",,
+"Andre [André] ,  José",,
+"Kotzwara,  Franz",1730.0,1791.0
+"Schuecker,  Edmund",,
+"Antonini,  Alfredo",1901.0,1983.0
+"Sans Souci,  Gertrude",,
+"Andre,  Mark",1964.0,2007.0
+"Rush,  Loren",1935.0,1970.0
+"Sun,  Yiqian",,
+"Erickson,  Robert",1917.0,1997.0
+"Bergé,  Irénée",,
+"Honstein,  Robert",,
+"Farley,  Roland",,
+"Rogers,",0.0,9999.0
+"Grandjany,  Marcel",1891.0,1976.0
+"Lazzari,  Sylvio",1857.0,1944.0
+"DuPage,  Richard",,
+"de Abreu,  Zequinha",1880.0,1935.0
+"Arnell,  Richard",1917.0,2009.0
+"Benoit,  Peter",1834.0,1901.0
+"Secchi,  Antonio",,
+"Rawsthorne,  Alan",1905.0,1971.0
+"Nichols,  Charles",1876.0,1920.0
+"Zaritzky,  Walt  Barrows",,
+"Fusco,  Giovanni",1906.0,1968.0
+"Imbrie,  Andrew",1921.0,2007.0
+"Edelshtadt,",,
+"Fryba,  Hans",,
+"Salter,",0.0,9999.0
+"Moevs,  Robert  (Walter)",,
+"Brock,  Timothy",1963.0,9999.0
+"Di Lazzaro,  Eldo",,
+"Tal,  Josef",1910.0,2008.0
+"Kline,  Phil",1953.0,1992.0
+"Stoughton,  Roy",,
+"Onslow,  George",1731.0,1792.0
+"Barrere [Barrère],  Georges",1876.0,1944.0
+"Sifuentes,  Carol",,
+"Caamano [Caamaño],  Roberto",,
+"Luzzi,  Luigi",,
+"Shaw,  Caroline",1982.0,2013.0
+"Pluddemann,",,
+"Gaunt,  Percy",,
+"Engel-Berger,  Willy",,
+"Zivkovic,  Nebojsa  Jovan",,
+"Wolff,  Eric",1957.0,2013.0
+"Kinkel,  Johanna",1810.0,1858.0
+"Bussotti,  Sylvano",1931.0,9999.0
+"Jobim,  Antonio  Carlos",1927.0,1994.0
+"Sable,  Lindsay",,
+"Avshalomov,  Jacob",1919.0,2013.0
+"Clay,  Spencer",,
+"Dalayrac,  Nicolas-Marie",1753.0,1809.0
+"Niblock,  Phill",1933.0,9999.0
+"Brucken Fock,  Gerardus Hubertus Galenus  von",,
+"Hummel,  Ferdinand  B.",1855.0,1928.0
+"Larson,  Jonathan",1960.0,1996.0
+"Babcock,  Andrew",,
+"Harline,  Leigh",1907.0,1969.0
+"Blackburn,  John  M",,
+"Bacon,  Ernst",1898.0,1990.0
+"Franchetti,  Arnold",1911.0,1993.0
+"Franchetti,  Baron  Alberto",1860.0,1942.0
+"Watts,  Wintter",1884.0,1962.0
+"Miron,  Issachar",,
+"Miller,",0.0,9999.0
+"Otani,  Yasuhiro",,
+"Zindars,  Earl",1927.0,2005.0
+"Phillips,  Burrill",1907.0,1988.0
+"Borguno,  A.",,
+"Goudoever,  H.D.  van",,
+"Steinberg,  Maximilian",1883.0,1946.0
+"Lei,  Zhenbang",,
+"Johnston,  Bruce",1942.0,1965.0
+"Butterworth,  George",1885.0,1916.0
+"Amanuensis,  A.  N.",,
+"Edwards,  George",1886.0,1953.0
+"Perle,  George",1915.0,2009.0
+"Hess,  Nigel",1953.0,9999.0
+"Legrand,  Michel",1932.0,2019.0
+"Reissiger,  Friedrich  August",,
+"Bezanson,  Philip",1916.0,1975.0
+"Dessner and Parry,  Bryce and Richard Reed",,
+"Thrane,  Waldemar",1790.0,1828.0
+"Pillois,  Jacques",,
+"Gogliano,",,
+"Yon,  Pietro  Alessandro",,
+"Cottrau,  Teodoro",1827.0,1879.0
+"Hirsch/Lanz,  Shelley/Joke",,
+"Lansky,  Paul",1944.0,9999.0
+"Balcomb,  Stuart",,
+"Carter,  Henry",1837.0,1891.0
+"Barlow,  Samuel  Latham Mitchell",,
+"Mores,  Mariano",1918.0,2016.0
+"Cooley,  Carlton",1898.0,1981.0
+"Dvorsky,  Michel",1876.0,1957.0
+"Bucchino,  John",1952.0,9999.0
+"Sametz,  Steven",1954.0,1979.0
+"Dietrich,  Albert  Hermann",,
+"Bergmann,  Carl",1821.0,1876.0
+"Hartmann,",0.0,9999.0
+"Cortes [Cortés],  Ramiro",1933.0,1984.0
+"Adler,  Larry",1914.0,2001.0
+"Landes,",0.0,9999.0
+"Vetessy,  George",,
+"Gritton,  Eric",,
+"Burgmein,  J.",1840.0,1912.0
+"Strimer,  Joseph",,
+"Anderson,  T.J.",1928.0,9999.0
+"Eisenhofer,  Franz  Xaver",,
+"Page, Plant, and Bonham,  Jimmy, Robert, and John",,
+"Wubbels,  Eric",,
+"Brewer,  Sir  Alfred  Herbert",,
+"Franck,  Melchior",1579.0,1639.0
+"Perez Prado,  Damaso",1916.0,1989.0
+"Nunes-Garcia,  José  Maurício",,
+"Europe,  James  Reese",1880.0,1919.0
+"Wiener,  Jean",1896.0,1982.0
+"Fitch,  Theodore",,
+"Ivanov-Radkevich,  Nikolai",,
+"Saint-Georges,  Joseph Bologne  Chevalier de",,
+"Davidson,  Randall",1848.0,1930.0
+"Kokkonen,  Joonas",1921.0,1996.0
+"Korzeniowsky,  Julian",,
+"Mayseder,  Joseph",1789.0,1863.0
+"Medaglia,  Julio",1938.0,1966.0
+"Gesualdo,  Don  Carlo",1566.0,1613.0
+"Burgmuller,  Norbert",1810.0,1836.0
+"Baumann,  F.",,
+"McGrimsey,  Robert",,
+"McCoy,  William  J.",1886.0,1976.0
+"Hegar,  Friedrich",1841.0,1927.0
+"Riesenfeld,  Hugo",1879.0,1939.0
+"Mero,  Yolanda",1887.0,1963.0
+"Schorr,  Israel",1886.0,1935.0
+"Ainger,  Marc",,
+"Cohen,  Lenoard",,
+"Hirschhorn,  Michelle",,
+"Balissat,  Jean",1936.0,2007.0
+"Prima,  Louis",1910.0,1978.0
+"Lucas,",0.0,9999.0
+"Scudrei,  Salvatore",,
+"Cutler,  Henry  Stephen",,
+"Harling,  William  Franke",,
+"Feng,  Shuya",,
+"Pieslak,  Jonathan",,
+"Corner,  Dr.  David  Gregor",,
+"Nassara-Barroso,",,
+"Wiechowicz,  Stanislaw",1893.0,1963.0
+"Szymanski,  Fred",,
+"Heusen,  James Van",1913.0,1990.0
+"Alsneff,",,
+"Locatelli,  Pietro",1695.0,1764.0
+"Aucoin,  Matthew",1990.0,2016.0
+"Fischer,  Clare",1928.0,2012.0
+"Wesley,  Mary  Lou",,
+"Soarez-Saveno,",,
+"Horn,  Charles  Edward",1786.0,1849.0
+"Franckenstein,  Clemens  Freiherr von und zu",,
+"Verley,  Albert",,
+"Kwartin,  Zevulun",,
+"Del Riego,  Theresa  Clotilde",,
+"Dougherty,  William",1932.0,2010.0
+"Spalding,  Albert",1850.0,1915.0
+"Mudarra,  Alonso  de",1510.0,1580.0
+"Jablonsky,  Stephen",,
+"Wolfe,  Stanley",0.0,9999.0
+"Abert,  Johann  Joseph",1832.0,1915.0
+"Baird,  Tadeusz",1928.0,1981.0
+"Vitrago,  Roger",,
+"Krasa,  Hans",1899.0,1944.0
+"Zangius,  Nikolaus",1570.0,1619.0
+"Metzl,  Vladimir",,
+"Weismann,  Julius",1879.0,1950.0
+"Garrido-Lecca,  Celso",,
+"Reed,  Alfred",1921.0,2005.0
+"Novacek,  John",,
+"Machaut,  Guillaume  De",1300.0,1377.0
+"Patterson,  Paul",1943.0,2014.0
+"Brown,  Ryan",0.0,9999.0
+"Beglarian,  Grant",,
+"Phillips,  Peter",1977.0,2000.0
+"Gibilaro,  Alfonso",1888.0,1957.0
+"Sherwood,  Gordon",1929.0,2013.0
+"Schaeffer,  J.",,
+"Starokadomsky,  Michael  L.",,
+"Heiden,  Bernhard",1910.0,2000.0
+"Jolas,  Betsy",1926.0,9999.0
+"Rissmann,  Paul",,
+"Bettison,  Oscar",1975.0,2017.0
+"Vakeva,  Kari",,
+"Evers,  Carl",,
+"Bettorini,",,
+"Haggerty,  Richard",0.0,9999.0
+"Sabat,  Marc",1965.0,1999.0
+"Mercure,  Pierre",1927.0,1966.0
+"Coldplay,",1996.0,1996.0
+"Proch,  Heinrich",1809.0,1878.0
+"Moross,  Jerome",1913.0,1983.0
+"Meck,  Josef",,
+"Sivan,  Noam",,
+"Millocker,",1842.0,1842.0
+"Philippe,",1960.0,2013.0
+"Foster,  David",1949.0,2012.0
+"Taffanel,  Paul",1844.0,1908.0
+"Tajtchevitch,  Marko",,
+"Sendrey,  Alfred",,
+"Willis,  Annabel",,
+"Landau,  Jake",,
+"Carrer [Karrer, Karreris],  Pavlos",,
+"Shearing,  George",1919.0,2011.0
+"Plante,  Daniel",,
+"Held,  Ilana",,
+"Raats [Rääts],  Jaan",1932.0,1957.0
+"Minkowsky,  Giacomo",,
+"Haussermann,  John",,
+"Schoenherr,  Max",,
+"Nevin,  Arthur",1871.0,1943.0
+"Isham,  Mark",1951.0,9999.0
+"Crusell,  Bernhard  Henrik",1775.0,1838.0
+"Hopkins,  Charles  Jerome",1836.0,1898.0
+"Rechtman,  Elan",,
+"Wolff,",0.0,9999.0
+"Webb,  Jimmy",1946.0,1986.0
+"Jones,  Jesse",1874.0,1956.0
+"Chagrin,  Francis",1905.0,1972.0
+"Grainer,  Ron",1922.0,1981.0
+"Ebeling,  Johann  Georg",1637.0,1676.0
+"Menzel,  Idina",1971.0,1996.0
+"Demantius,  Christoph",1567.0,1643.0
+"Hurd,  David",1950.0,2013.0
+"Gulielmetti,  Jack",,
+"Draper,  Isaac",,
+"Troiani-Bandini,",,
+"Larsson,  Lars  Erik",1908.0,1986.0
+"Williams,  Julius",1986.0,2009.0
+"Barkauskas,  Vytautas",1931.0,1961.0
+"Labunski,  Felix",,
+"Sellers,  Brother John",1924.0,1999.0
+"Bleckmann,  Theo",1966.0,9999.0
+"Paz,  Xavier  de",,
+"Bai,  Chengren",,
+"Schafer,  R.  Murray",1933.0,1977.0
+"Zhao,  Guang",,
+"Kihlstedt,  Carla",1971.0,1997.0
+"Bowman,  Brooks",1913.0,1937.0
+"Listov,  K.",,
+"Veit,  Wenzel  Heinrich",1806.0,1864.0
+"Ferriz,",1950.0,1921.0
+"Yuste Moreno,  Miguel",,
+"ACT,",0.0,9999.0
+"Bingham,  Seth",1882.0,1972.0
+"Curti,",1807.0,1872.0
+"Mondonville,  Jean-Joseph  De",,
+"Erdmannsdorfer,  Max  Von",,
+"Kahn,  Robert",1865.0,1951.0
+"Hellmesberger,  Joseph, Jr.",,
+"Finzi,  Gerald",1901.0,1956.0
+"Acosta,  Daniel",1991.0,9999.0
+"Dufourt,  Hugues",1943.0,1973.0
+"Gesensway,  Louis",,
+"Robinson and White,  William ""Smokey"" and Ronald",,
+"Spross,  Charles  Gilbert",,
+"Clement [Clément],  Charles  Francois [François]",,
+"Oberdier,  Danielle  Kerani",,
+"Alamo,  Lazaro del",,
+"Tzu,  Huang",1904.0,1938.0
+"Franklin,  Benjamin",1706.0,1705.0
+"Einbond,  Aaron",,
+"Haynes,  Walter  Battison",1859.0,1900.0
+"Buonamente,  Giovanni",1595.0,1642.0
+"Ross,  Jerry",1944.0,1926.0
+"Pleyel,  Ignaz",1757.0,1831.0
+"Norman,  Monty",1928.0,9999.0
+"Dell'Acqua,  Eva",1856.0,1930.0
+"Wright,  Maurice",,
+"Elsenheimer,  N.  J.",,
+"Esser,  Heinrich",1818.0,1872.0
+"Kallman,  Daniel",,
+"Kim,  Sae-Young",,
+"Kaminski,  Heinrich",1886.0,1946.0
+"Bonds,  Margaret",1913.0,1913.0
+"Dempster,  Stuart",1936.0,9999.0
+"Dupont,  Gabriel",1878.0,1914.0
+"Sanz,  Gaspar",1640.0,1710.0
+"Diaz,  Luis",1977.0,1983.0
+"Wagner,  Melinda",1957.0,1999.0
+"Dubugnon,  Richard",,
+"Mouton,  Jean",1459.0,1522.0
+"Yuasa,  Joji",1929.0,9999.0
+"Tuerck,",,
+"Humphrey,  Doris",1895.0,1958.0
+"Ding,  Qin",,
+"Aho,  Kalevi",1949.0,9999.0
+"Mallonee [Mallonée],  Caroline",,
+"Herrick,  Joseph",1645.0,1710.0
+"Bao,  Yuankai",,
+"Balada,  Leonardo",1933.0,1956.0
+"Stearns,  Theodor",,
+"Francoeur,  François",1698.0,1787.0
+"Fang,  Yue",,
+"Van Der Pals,  Leopold",,
+"Ueno,  Ken",1970.0,9999.0
+"Tsintsadze,  Sulkhan  Fyodorovich",1925.0,1991.0
+"LaChiusa,  Michael  John",1962.0,2000.0
+"Burle Marx,  Walter",,
+"Dodge,  Charles",1841.0,1910.0
+"Buck,  Dudley",1839.0,1909.0
+"Leidzen,  Erik",,
+"Matzka,  George",,
+"Bruckler,  Hugo",,
+"Meisel,  Edmund",1894.0,1930.0
+"Fischer,  Adolf",0.0,9999.0
+"Leon,  Tania",1945.0,1996.0
+"Bendel,  Franz",1833.0,1874.0
+"Lavalle,  Paul",1908.0,1997.0
+"Gold,  Ernest",1881.0,1976.0
+"Diaz,  Stanly",,
+"Pestalozza,  Alberto",1851.0,1934.0
+"Rotolo,  Kyle",,
+"Sorozabal,  Pablo",1897.0,1988.0
+"Goldman,  Edwin  Franko",1878.0,1956.0
+"Rosario,  Janis",,
+"Hakim,  Talib  Rasul",1940.0,1964.0
+"Suben,  Joel  Eric",1946.0,9999.0
+"Friedrich,  Alexander",,
+"Stigelli,  Giorgio",,
+"Nowakowsky,  D.",,
+"Menasce,  Jacques  De",,
+"Kretschmar,  Edmund",,
+"Lopez-Buchardo,",,
+"Marshall,  Charles",0.0,9999.0
+"Work,  John",1792.0,1861.0
+"Renie [Renié],  Henriette",1875.0,1956.0
+"Godfrey,  Kathryn",,
+"Wiren [Wirén],  Dag",1905.0,1986.0
+"Sortomme,  Richard",,
+"Kapica,  Chris",,
+"Enthoven,  Henri  Emile",,
+"Lange,",0.0,9999.0
+"Weprik,  Alexander",1899.0,1958.0
+"Hass,  Jeffrey",,
+"Bowers,  Robert  Hood",1877.0,1941.0
+"Samuel,  Gerhard",,
+"Muller,  Wenzel",1767.0,1835.0
+"Fillmore,  John  Comfort",,
+"Laub,  Fernando",,
+"Soper,  Kate",1943.0,9999.0
+"Edwards,  Ross",1942.0,1975.0
+"Escot,  Pozzi",1933.0,1949.0
+"Reif,",1924.0,1984.0
+"Garcia,  Jean-Carlos",1992.0,9999.0
+"Lane,  Eastwood",1879.0,1951.0
+"De La Torre,  Francisco",,
+"Kerr,  Harrison",1897.0,1978.0
+"Bates,  Django",1960.0,9999.0
+"Diamond,  Walter",,
+"Ruiz,  Gabriel",1908.0,1999.0
+"Fain,  Sammy",1902.0,1989.0
+"De Banfield,  Raffaello",,
+"Spier,  La Salle",,
+"Henderson,  Skitch",1918.0,2005.0
+"Loomis,  Harvey  Worthington",1865.0,1930.0
+"Patrono,  Clelia",,
+"Baker,  Claude",1948.0,9999.0
+"Mathieu,  Andre",1929.0,1968.0
+"Sohal,  Naresh",1939.0,2018.0
+"Anonymous,",0.0,9999.0
+"Travis,  Roy  Elihu",,
+"Mowrey,  Dent",1888.0,1960.0
+"Nunez [Nuñez],  Ivan",,
+"Korbray,  Francis  Alexander",,
+"Gastaldon,  Stanislas",,
+"Scharwenka,  Philipp",1847.0,1917.0
+"Romero,  Angel",0.0,9999.0
+"Shepherd,  Arthur",1880.0,1958.0
+"Alvarez,",0.0,9999.0
+"Barry,  Gerald",1898.0,1968.0
+"Blackwood,  Easley",1903.0,1992.0
+"Tavares,  Hekel",,
+"Valverde,  Joaquin",,
+"Mancinelli,  Luigi",1848.0,1921.0
+"Kubik,  Gail",1914.0,1984.0
+"Glibert,",,
+"Liebermann,  Lowell",1961.0,9999.0
+"Storck,",1988.0,9999.0
+"Mompou,  Frederic",1893.0,1987.0
+"Coperiario,  Giovanni",,
+"Ge,  Gangru",,
+"Hasselmans,  Alphonse  Jean",,
+"Coleman,  Ornette",1930.0,2015.0
+"von Reusner,  Clemens",,
+"Sonnett,",0.0,9999.0
+"Chou,  Wen-Chung",1923.0,2019.0
+"Hoffman,  Elizabeth",1927.0,1946.0
+"Zelenski,  Wladyslaw",1837.0,1921.0
+"Reimann,  Aribert",1936.0,2010.0
+"Rimmer,  William",1816.0,1879.0
+"Gutman,  Arthur  H",,
+"Earle,  Edward",1882.0,1972.0
+"Rodriguez,  Jasmin",,
+"Blose,  Johann  M",,
+"Gabriel,  Charles  H.",1856.0,1932.0
+"Fleming,  Sarah",,
+"Pino,  Maya",,
+"Zhang,  Qianyi",,
+"Artot,  Alexandre",1815.0,1845.0
+"Mann,  Robert",1920.0,2018.0
+"Sicilianos,  Yeorgo",,
+"Chemberdji,  Katya",,
+"Gatti,  Paolo",,
+"Perusio,  Matteus de",,
+"Saboly,  Nicolas",1614.0,1675.0
+"Kostelanetz,  Andre",1901.0,1980.0
+"Wildmans,  Friedrich",,
+"Granz,  Norman",1918.0,2001.0
+"Hoffer,  Bernard",1934.0,2015.0
+"Wong & Xiao,  Patrick & Vincent",,
+"Zaki,  Mark",,
+"Riesman,  Michael",0.0,9999.0
+"Burck,  Henry",,
+"Reed,  William  Henry",1875.0,1942.0
+"Noren,  Heinrich  Gottlieb",,
+"Boutry,  Roger",1932.0,2019.0
+"Kassern,  Tadeusz",1904.0,1957.0
+"Qian,  Qi",,
+"Stich,  Jan  Vaclav",,
+"Font de Anda,",,
+"Petronio,  Camilla",,
+"Chough,  Sara",,
+"Hammond,  William  G.",,
+"Ritter,  Alexander",1833.0,1896.0
+"Krieger,  Henry",1945.0,1981.0
+"Consoli,  Marc-Antonio",,
+"Zhang,  Yusong",,
+"Shayne,  Gloria",1923.0,2008.0
+"Bucci,  Mark",1924.0,2002.0
+"Glanert,  Detlev",1960.0,9999.0
+"Grippe,  Ragnar",,
+"Sollberger,  Harvey",1938.0,9999.0
+"Stevens,  David",1936.0,1962.0
+"Blumer,  Theodore",,
+"Wehli,  James  M.",,
+"Crouch,  Andrae  (Edward)",,
+"Robinson,  Kyla",,
+"Zhou,  Chenglong",,
+"Barroso,  Ary",1903.0,1964.0
+"Gardner,  Danielle",,
+"Morawetz,  Oskar",1917.0,2007.0
+"Tucci,  Terig",1897.0,1973.0
+"Ye,  Xiaogang",1955.0,9999.0
+"Joseph I,",1266.0,1275.0
+"Karg-Ellert,  Sigfrid",,
+"Sturm-Biel,",,
+"Costa,  Sir  Michael",1808.0,1884.0
+"Andre,",0.0,9999.0
+"Tarenghi,  Mario",,
+"Sor,  Fernando",1778.0,1839.0
+"Wang,  Lu",1139.0,1192.0
+"Trovajoli,  Armando",1917.0,2013.0
+"Knight,  G.  H.",,
+"Fletcher,  Percy",1879.0,1932.0
+"Hartonen,  Aino",,
+"Higdon,  Jennifer",1962.0,2010.0
+"Geral,",,
+"McKinley,  William  Thomas",1938.0,2015.0
+"Shaeffer,  Joseph",,
+"Krauze,  Zygmunt",1938.0,9999.0
+"Bird,  Arthur",1856.0,1923.0
+"Friedman,  Ignaz",1882.0,1948.0
+"Wencheng,  Lu",1898.0,1981.0
+"Wallach,  Joelle",1946.0,1967.0
+"Hegner,  Anton",1861.0,1915.0
+"Coll,  Francisco",1985.0,9999.0
+"Yanov-Yanovsky,  Dmitri",,
+"Hosokawa,  Toshio",1955.0,9999.0
+"Colombier,  Michel",1939.0,2004.0
+"Alexander,  Josef",,
+"Jimenez,  Noah",,
+"Alard,  Jean  Delphin",1815.0,1888.0
+"Rush,  Stephen",,
+"Scott,  Hazel",1920.0,1981.0
+"Faccio,  Franco",1840.0,1891.0
+"Brown,  Wilson",1841.0,1900.0
+"Esposito,  Michele",1855.0,1929.0
+"Reddick,  William",1812.0,1885.0
+"Leonard,  Clair",,
+"Suesse,  Dana",1909.0,1987.0
+"Hill,  Dorothy",1907.0,1997.0
+"Leroux,  Xavier  Henry Napoleon",,
+"Quiroga,  Manuel",1899.0,1988.0
+"Keillor/Dworsky/Stein,  Garrison/Rich/Andy",,
+"Rascel,  Renato",1912.0,1991.0
+"Sebastian,  John",1944.0,1969.0
+"Perlea,  Jonel",1900.0,1970.0
+Bayes,1702.0,1761.0
+"Guang,  Ren",1900.0,1941.0
+"Font,  M.",,
+"Caetani,  Roffredo",,
+"Hurlstone,  William",1876.0,1906.0
+"Leger,  Anabel",,
+"Pinsoti,",,
+"Baxter,  Phil",1896.0,1972.0
+"Stillman-Kelley,  Edgar",1857.0,1944.0
+"Gomez,  Cynthia",1958.0,9999.0
+"Bentzon,  Niels  Viggo",1919.0,2000.0
+"Louis XIII,",1601.0,1643.0
+"Pygott,  Richard",,
+"Frey,  Hugo",1939.0,1945.0
+"McNabb,  Michael",,
+"Balazs,  Frederic",,
+"Brun,  Fritz",1878.0,1959.0
+"Bortz [Börtz],  Daniel",1943.0,1991.0
+"Jagoda,  Flory",1923.0,9999.0
+"Davies,  Sir  Walford",1869.0,1941.0
+"Vosgerchien,  Luise",,
+"Samerson,  Brooke",,
+"Molter,  Johann  Melchior",1696.0,1765.0
+"Fagin,  Gary",,
+"Dougherty,  Celius  (Hudson)",,
+"Coolidge,  Peggy  Stuart",1913.0,1981.0
+"Redhead,  Richard",,
+"Poldini,  Ede",1869.0,1957.0
+"Garcia-Matos,  Manuel",,
+"Zagortsev,  Vladimir",,
+"Peace,  A.  L.",,
+"Kearney,  Peadar",1883.0,1942.0
+"Souvaine,  Henry",,
+"Cordero,  Roque",1917.0,2008.0
+"Ganin,  Kim",,
+"Harris,  Donald",1936.0,1978.0
+"Hodkinson,  Sydney",,
+"Kidder,  Max",,
+"Lutkin,  Peter  Christian",1858.0,1931.0
+"Bliss,  Philip",1838.0,1876.0
+"Haase,  Carl  F.W.",,
+"Ives,  Simon",1600.0,1662.0
+"Braine,  Robert",1896.0,1940.0
+"Otesco,  Nonna",,
+"Serrano,  Jose",1851.0,1904.0
+"Philidor,  Francois-Andre",1726.0,1795.0
+"Meltzer,  Harold",1966.0,2010.0
+"Cesana,  Otto",,
+"Dyson,  Sir  George",1883.0,1964.0
+"Bihari,  Janos",1764.0,1827.0
+"McCabe,  James  J.",,
+"Lenon/McCartney,  John/Paul",,
+"Handel/ Mason,  George/Lowell",,
+"Lie,  Sigurd",1871.0,1904.0
+"Fleck,  Fritz",,
+"Kiel,  Friedrich",1821.0,1885.0
+"Yellen,  Jack",1892.0,1991.0
+"Kim,  HanNa",,
+"Parish,  M",,
+"Mindlin,  Samantha",,
+"Warnow,  Mark",1900.0,1949.0
+"Francesconi,  Luca",1956.0,9999.0
+"Dachauer,  Louis",,
+"Schmitz,  Henry",,
+"Clarke,  Robert  Coningsby",,
+"Hinton,  Arthur",,
+"Levinson,  Y.  D.",,
+"Gargiulo,",0.0,9999.0
+"Morganstern,",,
+"Othegraven,  August  von",1864.0,1946.0
+"Lamond,  Frederic",1868.0,1948.0
+"Dor,  Dani",,
+"Hodge,  Huck",1977.0,1999.0
+"Chowning,  John  MacLeod",,
+"Bernstein,  Adam",1960.0,2014.0
+"Alexander,  Lucas",,
+"Kerr,  Joseph  Frizell",,
+"Prume,  Jehin",,
+"Jones,  Thaddeus",1952.0,2007.0
+"Westhoff,  Johann  Paul von",1656.0,1705.0
+"Yaysnoff,  June & Iris",,
+"Tinel,  Edgar",1854.0,1912.0
+"Topliffe,",,
+"Riedel,  Karl  Heinrich",,
+"Cerrone,  Chris",,
+"Pisk,  Paul",1893.0,1990.0
+"Miliutin,  Georgii Sergeevich",,
+"Herz,  Henri",1803.0,1888.0
+"Cerchio,  Bruno",,
+"Pointer,  John",1782.0,1815.0
+"Woltmann,  Frederick",1908.0,1965.0
+"Gaga,  Lady",1986.0,2007.0
+"Navarro,",0.0,9999.0
+"Schreck,  Gustav",1849.0,1918.0
+"Lyon,  Eric",,
+"Scholz,  Bernhard  E.",1835.0,1916.0
+"Denisov,  Edison",1929.0,1996.0
+"Goehr,",1960.0,1932.0
+"Sapp,  Allen  D.",,
+"Khrennikov,  Tikhon",1913.0,2007.0
+"Dunham,  Henry  M.",,
+"Sciarrino,  Salvatore",1947.0,9999.0
+"Graham,  Peter",0.0,9999.0
+"Lewis,  Leon",1833.0,1920.0
+"Moore,  Phil",0.0,9999.0
+"Nichols,  John",1745.0,1826.0
+"Walters,  Andrew",0.0,9999.0
+"Wright,  Robert",0.0,9999.0
+"Grossman,  David",1954.0,2008.0
+"Matiegka,  Wenzel  Thomas",1773.0,1830.0
+"Blomdahl,  Karl-Birger",1916.0,1968.0
+"Waddington,  Samuel  P.",,
+"Taxin,  Ira",,
+"Negron,  Angelica",,
+"Messager,  Andre [André]  Charles Prosper",1853.0,1929.0
+"Lieber,  Arthur",2010.0,2011.0
+"George,  Earl",1946.0,2003.0
+"Loeb,  John  Jacob",1910.0,1970.0
+"Wissmer,  Pierre",1915.0,1992.0
+"Thorne,  Nicholas",,
+"Veracini,  Francesco  Maria",1690.0,1768.0
+"Marker,",0.0,9999.0
+"Gordon,  Michael",0.0,9999.0
+"Kramer,  Reiner",,
+"Gottlieb,  Jack",,
+"Subramaniam,  Lakshminarayana",1947.0,9999.0
+"Nakamura,  Toru",1950.0,1965.0
+"Geld,  Gary",,
+"Jurek,",0.0,9999.0
+"Dring,  Madeleine",1923.0,1977.0
+"Richardson,  Albert",1880.0,1964.0
+"Spiegel,  Laurie",1945.0,1977.0
+"Moor,  Emanuel",1863.0,1931.0
+"Bermejo,  Felipe",,
+"Gogins,  Michael",,
+"Russell,",0.0,9999.0
+"Luigini,  Alexandre",1850.0,1906.0
+"Mason,  Lowell",1792.0,1872.0
+"Verrall,  John",1908.0,2001.0
+"Miller,  Jared",2014.0,2014.0
+"Gade,  Jacob",1879.0,1963.0
+"Blumenfeld,  Felix",1863.0,1931.0
+"Wasserman,  Ron",1961.0,9999.0
+"Speer,  Daniel",1636.0,1707.0
+"Thomas,  Paul  David",,
+"Coletti,  Christopher",,
+"Kotcheff,  Thomas",,
+"Lu,  Cindy",,
+"Garcia-Estrada,",,
+"Bauer,  Marion  Eugenie",1882.0,1955.0
+"Karmen,  Steve",1937.0,1976.0
+"Mercer,  Johnny",1909.0,1976.0
+"Schwartz,  Jay",1965.0,1989.0
+"Ratner,  Leonard",1916.0,2011.0
+"Schwertsik,  Kurt",1935.0,1958.0
+"Pache,  J.",,
+"Reyer,  Ernest",1823.0,1909.0
+"Dworsky,  Richard",1974.0,2016.0
+"Lee,  Damon",1992.0,9999.0
+"Quinlan,  Caitlin",,
+"Beck,  Conrad",1901.0,1989.0
+"Luther,  Martin",1483.0,1546.0
+"Panufnik,  Sir  Andrzej",1914.0,1991.0
+"Wyre,  John",1941.0,2006.0
+"Harty,  Hamilton",1879.0,1941.0
+"Dixieland Jazz Band,",1917.0,1917.0
+"Dashow,  James",1944.0,9999.0
+"Bowles,  Paul",1910.0,1999.0
+"Bryant,  Calista",,
+"Diepenbrock,  Alphons",1862.0,1921.0
+"Spisak,  Michal",,
+"Orrego-Salas,  Juan",1919.0,2019.0
+"Jones,  Jeremie",,
+"Maduro,  Charles",,
+"Reizenstein,  Franz",1911.0,1968.0
+"Vivier,  Claude",1948.0,1983.0
+"Charles, Dick and Marks, Larry,",,
+"Torch,  Sidney",1908.0,1990.0
+"Darris,  Samantha",,
+"Amirov,  Fikret",1922.0,1984.0
+"Moore,  Dorothy  Rudd",1940.0,9999.0
+"Etler,  Alvin",1913.0,1973.0
+"Sauter-Finegan,",,
+"Brull,  Ignaz",1846.0,1907.0
+"Nelhybel,  Vaclav",1919.0,1996.0
+"Kaun,  Hugo",1863.0,1932.0
+"Navon,  Yitzchak  Eliyahu",,
+"Napravnik (Nápravník),  Eduard  Frantsovitch",,
+"Bondeville,  Emmanuel",1898.0,1987.0
+"Eliasson,  Anders",1947.0,2013.0
+"Bayly,  Thomas  Haynes",1797.0,1839.0
+"Schneider,  Johann  C. Friedrich",,
+"Salzman,  Eric",1933.0,2017.0
+"Jommelli,  Niccolò",1714.0,1774.0
+"Katzer,  Georg",1935.0,2019.0
+"Sampson,  Edgar",1907.0,1973.0
+"Semmler,  Alexander",,
+"Sang,  Ruocuo",,
+"Tertius-Noble,  Thomas",,
+"Levine,  Jeffrey",1942.0,9999.0
+"Shea,  Michael  J.",,
+"Lang,  Margaret  R.",,
+"Betti,  Henry",,
+"De Filippi,  Amedeo",,
+"Koussevitzky,  Moshe",1899.0,1966.0
+"Goehr,  Alexander",1932.0,1932.0
+"Strouse,  Charles",1928.0,9999.0
+"Berwald,  Franz  Adolf",1796.0,1868.0
+"Cerar/Borissov,  Maja/Liubo",,
+"Haertel,  A.",,
+"Winkler,  David",,
+"Grime,  Helen",1981.0,2004.0
+"Hadjidakis,  Manos",1925.0,1994.0
+"Mouret,  Jean  Joseph",1682.0,1738.0
+"Gasco,  Alberto",,
+"Farnaby,  Giles",1563.0,1640.0
+"Cras,  Jean",1879.0,1932.0
+"Lu,  Yiqing",,
+"Mann,  David",0.0,9999.0
+"Smyth,  Ethel",1858.0,1944.0
+"Pluta,  Sam",,
+"Elvey,  Sir  George",,
+"Grant,",0.0,9999.0
+"Span,  Norman",1929.0,9999.0
+"Luhmann,  Grant",,
+"Yoran,  Victor",,
+"Wilson,  Paul",0.0,9999.0
+"Alter,  I",,
+"Fuerst,  Eugene",,
+"Eckert,  Gerald",1960.0,9999.0
+"Irfan,  Tengku  Ahmad",,
+"Rudhyar,  Dane",1895.0,1985.0
+"Shore,  Howard",1946.0,1979.0
+"Espla [Esplá],  Oscar [Óscar]",,
+"Sydeman,  William  Jay",1928.0,1960.0
+"Vitali,  Giovanni  Battista",1632.0,1692.0
+"Kosakoff,  Reuven",,
+"Low,",0.0,9999.0
+"La Montaine,  John",1920.0,2013.0
+"Brodsky,  Nicholas",,
+"Grey,  Mark",2019.0,9999.0
+"Warren,  Elinor  Remick",1900.0,1991.0
+"Ray,  Don",1942.0,2019.0
+"Albrechtsberger,  Johann  G.",1736.0,1809.0
+"White,  Jose  (Paul)",,
+"Heinemeyer,  Ernst  Wilhelm",,
+"Grave,  Maria",,
+"Wang,  Tuo",,
+"Jora,  Mihail",1891.0,1971.0
+"Bixio,  Cesare  Andrea",1896.0,1978.0
+"Clapisson,  Antoine  Louis",,
+"Qian,  Yibing",,
+"Greenwood,  Lee",1942.0,1962.0
+"Fenton,",0.0,9999.0
+"Caserta,  Anthonellus de",,
+"Adair,  Dorothy  W.",,
+"Igudesman & Joo,  Aleksey & Huyng-ki",,
+"Zivkovic,  Djuro",1975.0,2000.0
+"Axt,  William",1888.0,1959.0
+"Biloti,  Anton",,
+"Tournier,  Marcel",1879.0,1951.0
+"Rummel,  Walter  Morse",1887.0,1953.0
+"Harrison,  Tim",1985.0,1999.0
+"Stark,  Christopher",1987.0,9999.0
+"Nero,  Paul",,
+"Beckett,  Wheeler",,
+"Bergsma,  William",1921.0,1994.0
+"Shaw,  Oliver",1779.0,1848.0
+"Rossi,  Salamone",1570.0,1630.0
+"Vasks,  Peteris",1946.0,9999.0
+"Schjelderup,  Gerhard",1859.0,1933.0
+"Lubeck,  Ernst",,
+"Glisic [Glišic],  Živojin",,
+"Li,  Wuan-chin",,
+"Benda,  Friedrich  Ludwig",1746.0,1792.0
+"Frank,  Gabriela  Lena",1972.0,9999.0
+"Thomas,  Michael  Tilson",1944.0,9999.0
+"Charles,  Ernest",1895.0,1984.0
+"Kraft,  William",1923.0,9999.0
+"Firestone,  Elizabeth",,
+"Reiser,  Alois",1887.0,1977.0
+"Ilgenfritz,  McNair",,
+"Dessner,  Bryce",1976.0,2016.0
+"Cunningham,  Stuart",1953.0,2006.0
+"Glaassen,  A.",,
+"Lamb,  Joseph  Francis",,
+"Severn,  Edmund",1862.0,1942.0
+"Vogrich,  Max  Wilhelm Karl",,
+"Glantz,  Harry",1896.0,1982.0
+"Blasco,  Ricardo",,
+"Manoury,  Philippe",1952.0,9999.0
+"Gabriel-Marie,",1852.0,1928.0
+"Hudson,  Caleb",,
+"Zafred,  Mario",1922.0,1987.0
+"Riese,  Mark",,
+"Friedman,  Jefferson",1974.0,9999.0
+"Balbi,  Ashley",,
+"Stein,  Barbara",,
+"Vene [Vené],  Ruggero",,
+"Zahavi,  David",,
+"Peterson,  Timothy",,
+"Dlugoszewski,  Lucia",1925.0,2000.0
+"Farrenc,  Jeanne-Louise",,
+"Evans,  Eric",0.0,9999.0
+"Hohnstock,  Carl",,
+"Joo,  Hyung-ki",0.0,9999.0
+"Portnoff,  Mischa",1901.0,1979.0
+"Collings,  Bryce",,
+"Talmud,  Yaakov",,
+"Young,  Lester",1909.0,1959.0
+"Bennett,  Richard  Rodney",1936.0,2012.0
+"Curran,  Pearl",1883.0,1937.0
+"Blake,  Eubie",1887.0,1983.0
+"Colombo,  Russ",1908.0,1934.0
+"Bratton,  John  W.",,
+"Floridia,  Pietro",1860.0,1932.0
+"Wood,  Mary  Knight",1857.0,1944.0
+"Andrade,  Angie",,
+"Fry,  William  Henry",1813.0,1864.0
+"Hembree,  Paul",,
+"Monreal,",0.0,9999.0
+"Piot,  Melhia",,
+"Neukirchner,  Wenzel",,
+"Gilardi,  Girado",,
+"Jonas,",0.0,9999.0
+"Helsted,  Edvard",1816.0,1900.0
+"Gebhard,  Heinrich",1878.0,1963.0
+"Rudorff,  Ernst",1840.0,1916.0
+"Tu,  Emily",,
+"Mueller,  Florian  F.",,
+"Kotkin,  Henry",,
+"Rizzo,  Giovanni  Battista [Riccio]",,
+"Livingston,  Jay",1915.0,2001.0
+"Schifrin,  Lalo",1932.0,9999.0
+"Tatum,  Art",1909.0,1956.0
+"Fiorenzoli,  Stella",,
+"Zemachson,  Arnold",,
+"Charles,  Ray",1930.0,2004.0
+"Lamonte de Grignon,  Joan",,
+"Romero,  Celedonio",1913.0,1996.0
+"Esman,  Ilan",,
+"Ng,  Aidan",,
+"Ferroud,  Pierre  Octave",,
+"Eotvos [Eötvös],  Melody",,
+"Knecht,  Justin  Heinrich",1752.0,1817.0
+"Rehfeld,",,
+"Comstock,  Jackson",,
+"Simons,  Moises",1889.0,1945.0
+"Bridge to Nowhere,",0.0,9999.0
+"Dugger,  Edwin",,
+"Bogzester,  William",,
+"Lobe,  Johann  Christian",1797.0,1881.0
+"Costa,  G.",,
+"Okuyama,  Marin",,
+"Maloof,  A.",,
+"Redman,  Donald  Matthew",,
+"Marinuzzi,  Gino, Jr.",,
+"Zoellner,  Heinrich",1854.0,1941.0
+"Rosenthal,  Laurence",1926.0,9999.0
+"Raz,  Yehezkel",,
+"Tuur,  Erkki-Sven",1959.0,1976.0
+"Moore,  Ted",1914.0,1987.0
+"Boyle-Cole,  Cheyenne",,
+"Silverman,  Stanley",1938.0,1998.0
+"Bonner,  Eugene  MacDonald",,
+"Chaynes,  Charles",1925.0,2016.0
+"Ferguson,  Howard",1870.0,1946.0
+"Maltsby,  Carl",,
+"Parker,  Charlie  (""Bird"")",,
+"Tedesco,  Ignaz  Amadeus",,
+"Cowell,  Johnny",1926.0,2018.0
+"Weisgall,  Hugo",1912.0,1997.0
+"Tateno,  Keito",,
+"Gregorian Chant,",0.0,9999.0
+"Steiger,  Rand",1957.0,1982.0
+"Braun,  Aliyana  Tedi",,
+"Senk,  Olga",,
+"Olivero,  Betty",1954.0,9999.0
+"Tokke,  Justin  P.",,
+"Fig,  Aaron  Wolff",,
+"Clausen,  Joshua",,
+"Grunfeld [Gruenfeld],  Alfred",1852.0,1924.0
+"Kampela,  Arthur",,
+"Curschmann,  Karl  Friedrich",1805.0,1841.0
+"Hamelin,  Marc-André",1961.0,9999.0
+"Saar,  Louis  Victor",,
+"Zarebski,  Juliusz",1854.0,1885.0
+"Azmeh,  Kinan",1976.0,9999.0
+"Clough-Leighter,  Henry",,
+"Perren, Fekaris, and Gaynor,  Freddie, Dino, and Gloria",,
+"Pinkham,  Daniel",1923.0,2006.0
+"Arcadelt,  Jacques",1507.0,1568.0
+"Butler,  Artie",1942.0,9999.0
+"Reinitz,  Béla",,
+"Geissel,  J.",,
+"Maryon,  Edward",1931.0,2005.0
+"Gray,  Aiesha",,
+"Brody,  Josef",,
+"X,  Alfonso",1221.0,1284.0
+"Ruzicka,  Peter",1948.0,1948.0
+"Dancla,  Jean  Charles",,
+"Ripoll,  Michael  Douglas",,
+"Turlet,  A.",,
+"Moors,  Daniel",,
+"Guitierrez [Gutiérrez] de Padilla,  Juan",,
+"Bungert,  August",1845.0,1915.0
+"Baker,  Phil",1896.0,1963.0
+"Grigoriu,  George",,
+"Stewart,  Humphrey  J.",,
+"Kazik,  James",,
+"Mendoza y Cortés,  Quirino",1862.0,1957.0
+"Bilik,  Jerry",1933.0,1972.0
+"Klein,  Bruno  Oscar",1858.0,1911.0
+"Rode,  Jacques  Pierre Joseph",,
+"Williams,  Pharrell",1973.0,1994.0
+"Nini,  Alessandro",1805.0,1880.0
+"Lipschutz,  Lita",,
+"Hely-Hutchinson,  Victor",1901.0,1947.0
+"Tuthill,  Burnet",,
+"Reinthaler,  Karl",1822.0,1896.0
+"Shaw,  David  T.",,
+"Hall,  Reginald",1870.0,1943.0
+"Mostel,  Raphael",,
+"Schafer,  Dirk",1873.0,1931.0
+"Smith,  Robert  W",0.0,9999.0
+"Frackenpohl,  Arthur",1924.0,2019.0
+"Stern,  I. & Moshe",,
+"Poot,  Marcel",1901.0,1988.0
+"Mitchell,  Willie",1889.0,1973.0
+"Brixi,  Frantisek [František]  Xaver",1732.0,1771.0
+"Manna Zucca,",,
+"Neuwirth,  Olga",1968.0,9999.0
+"Adams,  Samuel",1722.0,1803.0
+"Dresher,  Paul",1951.0,1994.0
+"Thomas,  Andrew",1936.0,2011.0
+"Andriessen,  Louis",1939.0,1959.0
+"Andres,  Bernard",,
+"Broughton,  Bruce",1945.0,9999.0
+"Park,  Jong Eun  Sylvia",,
+"Kalkbrenner,  Friedrich [Frédéric]",1785.0,1849.0
+"Bodge,",0.0,9999.0
+"Szabo [Szabó],  Ferenc",1902.0,1969.0
+"Schonberg [Schönberg],  Claude-Michel",1944.0,1973.0
+"Conti,  Bill",1942.0,9999.0
+"Szalowski,  Antoni",1907.0,1973.0
+"Kennan,  Kent",1913.0,2003.0
+"Ramey,  Phillip",1939.0,1959.0
+"Kenton,  Stan",1911.0,1979.0
+"Aguirre,  Julián",,
+"Zhang,  Yijun",,
+"Sting,",0.0,9999.0
+"Wekerlin,  Jean-Baptiste",1821.0,1910.0
+"Hathaway and McKinnor,  Donny and Nadine",,
+"Naginski,  Charles",1909.0,1940.0
+"Oliveros,  Pauline",1932.0,2016.0
+"Pesson,  Gerard [Gérard]",1958.0,9999.0
+"Wood,  Haydn",1882.0,1959.0
+"Griselle,  Thomas",1891.0,1955.0
+"Boehm,  Georg",1661.0,1733.0
+"Parbury,",,
+"Calvert,  Morley",,
+"Heidrich,  Peter",,
+"Barab,  Seymour",1921.0,2014.0
+"Chutiner,  P.",,
+"Biber,  Heinrich von",,
+"Koch,  Friedrich  E.",,
+"Schoenberg,  Adam",1980.0,2010.0
+"Napoleon,  Arthur",,
+"Berger,  Jean",1909.0,2002.0
+"Valongo,  Elijah",,
+"Scott,  Tom",0.0,9999.0
+"Gockel,  August",,
+"Furtwangler [Furtwängler],  Wilhelm",1886.0,1954.0
+"Frazzi,  Vito",1888.0,1975.0
+"Mollison,",1928.0,2016.0
+"Moore,  Undine  Smith",1904.0,1989.0
+"Bensussan,  Menachem",,
+"Braxton,  Tyondai",1978.0,2002.0
+"Soler,  Padre",1729.0,1783.0
+"Risset,  Jean-Claude",1938.0,2016.0
+"Sullivan,  Archibald  Beresford",,
+"Bergson,  Michal",1820.0,1898.0
+"Sculthorpe,  Peter",1929.0,2014.0
+"Quantz,  Johann  Joachim",1697.0,1773.0
+"Bailey,  Christopher",1971.0,9999.0
+"Bate,  Stanley",1911.0,1959.0
+"Jones,  Isham",1894.0,1956.0
+"Ugarte,  Floro  M(elitón)",,
+"Lvovsky,",0.0,9999.0
+"Helm,  Everett",1913.0,1999.0
+"Luo,  Xiuying",,
+"Wolcott,  Charles",1906.0,1987.0
+"Bassani,  Giovanni  Battista",1650.0,1716.0
+"Wachs,  Paul",1851.0,1915.0
+"Schertzinger,  Victor",1888.0,1941.0
+"Rogers,  Frederic",1811.0,1889.0
+"Nissenson,  Gloria",,
+"Moore,  Carman",,
+"Rybicki,  Wojciech",1942.0,1959.0
+"Sachnowsky,  G.",,
+"Oyanguren,  Julio  Martinez",,
+"Vega,  Arianna",,
+"Vallejo,",0.0,9999.0
+"Howe,  Hurbert",,
+"Faning,  Eaton",1850.0,1927.0
+"Bourk,  Richard  C.",,
+"Harris,  Joel  Chandler",1848.0,1908.0
+"Hively,  Wells",,
+"Atterberg,  Kurt",1887.0,1974.0
+"Schnabel,  Artur",1882.0,1951.0
+"Pousseur,  Henri",1929.0,2009.0
+"Garcia,  Jerry",1942.0,1995.0
+"Manney,  Charles  Fonteyn",,
+"Fanelli,  Ernest",1860.0,1917.0
+"Pierce,  Seneca",,
+"Wilbye,  John",1574.0,1638.0
+"Pascuzzi,  Gregory",,
+"Alcock,  Gilbert",,
+"Saar,  Wiiliam",,
+"Pasculli,  Antonio",1842.0,1924.0
+"Jacobson,  Colin",,
+"Weiss,  George  David",1921.0,2010.0
+"Gauntlett,  Henry  John",1805.0,1876.0
+"Cresswell & McNicholas,  Luke & Steve",,
+"Dalgleish,  James",1891.0,1964.0
+"Shmerler,  Harry",,
+"Matthews,  Artie",1888.0,1958.0
+"Kouyoumdjian,  Mary",,
+"Sakovich,",0.0,9999.0
+"Amy,  Gilbert",1936.0,9999.0
+"Velazquez,  Consuelo",1916.0,2005.0
+"Ferrao,",,
+"Rountree,  Christopher",2012.0,2009.0
+"Genzmer,  Harald",1909.0,2007.0
+"Arndt,  Felix",1889.0,1918.0
+"Rucken,",,
+"Ewald,  Victor",1860.0,1935.0
+"Fritts,  Lawrence",,
+"Helfter,  Walter",,
+"Dolby,  Nuha",,
+"Fahrbach,  Philipp",,
+"Anderson,  Florence",1893.0,1972.0
+"Wagner,  Joseph",1853.0,1706.0
+"Perkinson,  Coleridge-Taylor",1932.0,2004.0
+"Lara,  Felipe",,
+"Mailman,  Joshua",,
+"Wang,  A-Mao",,
+"Grimm,  Julius  Otto",1827.0,1903.0
+"Paer,  Ferdinando",1771.0,1839.0
+"Gradener [Grädener],  Hermann",,
+"Chan,  Ka  Nin",1949.0,1971.0
+"Kallinnikof,  Ivanof",,
+"Misraki,  Paul",1908.0,1998.0
+"Bordese,  Luigi",,
+"Daniels,  Mabel  Wheeler",1877.0,1971.0
+"Gardner,  Samuel",1891.0,1984.0
+"Cohen,  Edward",1822.0,1877.0
+"Cook,  Will  Marion",1869.0,1944.0
+"Cline,  Nicholas",,
+"Coots,  J.  Fred",1897.0,1985.0
+"Dempster,  Thomas",1579.0,1625.0
+"Choi,  Sophia",0.0,9999.0
+"Montalti,  Vittorio",,
+"Savine,  Alexander",,
+"Camilieri,  Lorenzo",,
+"Schindelmeisser,  Ludwig",,
+"Egge,  Klauss",,
+"Ronald,  Langdon",,
+"Rawsthorne,  Noel",1929.0,2019.0
+"Slonimsky,  Sergei",1932.0,9999.0
+"Shand, Terry & Eaton, Jimmy,",,
+"Orbon,  Julian",1925.0,1991.0
+"Glover,  Charles  William",1806.0,1863.0
+"Felsenfeld,  Daniel",1970.0,9999.0
+"Kekeu,",,
+"Le Roy,  Henri  Leon",,
+"Clarke,  Rebecca",1886.0,1979.0
+"Rutter,  John",1945.0,9999.0
+"Ovadia,",1979.0,1946.0
+"Morris,  Harold",1890.0,1964.0
+"Nelson,  Ron",1929.0,1946.0
+"Reynolds,  Roger",1934.0,1961.0
+"Valjean,  Paul",,
+"Otten,  William  F.",,
+"Ferrabosco,  Alfonso",1543.0,1588.0
+"James,  Dijon",,
+"Heinefetter,  Wilhelm",,
+"Lennertz,  Christopher",1972.0,2007.0
+"Torelli,  Giuseppe",1658.0,1709.0
+"Stein,  Andy",1976.0,1977.0
+"Camilo,  Michel",1954.0,9999.0
+"Klemperer,  Otto",1885.0,1973.0
+"Klein,  John  M.",,
+"Di Crescenza,",,
+"Stafylakis,  Haralabos [ Harry ]",,
+"Lincke,  Paul",1866.0,1946.0
+"Spendiaryan,  Alexander",1871.0,1928.0
+"Jadassohn,  Salomon",1831.0,1902.0
+"Mitropoulos,  Dimitri",1896.0,1960.0
+"Di Candriano,  Prince  Camillo  Ruspoli",,
+"Lara,  Agustín",1897.0,1900.0
+"Dessauer,  Josef",1798.0,1876.0
+"Blaudziunas,  Gabija",,
+"Mackenna,  Carmela",1879.0,1962.0
+"Wells,  John  Barnes",1880.0,1935.0
+"Parsons,  Michael",1938.0,1984.0
+"Thalberg,  Sigismond",1812.0,1871.0
+"May,  Robert  C.",,
+"Wright,  Rayburn",1922.0,1990.0
+"Goldsmith,  Jerry",1929.0,2004.0
+"Silvers,  Dolores Vicki",,
+"Crist,  Bainbridge",1883.0,1969.0
+"Marshall,  Ingram",1942.0,9999.0
+"Yan,  Hai-Deng",,
+"Pfeffer,  Walter",,
+"Mochizuki,  Misato",,
+"Frey,  M.",,
+"Ranjbaran,  Behzad",1955.0,9999.0
+"Stoughton,  Roy  Spaulding",,
+"Georges,  Alexandre",1850.0,1938.0
+"Pfeiffer,  Georges  Jean",,
+"Ludwig,  David",1974.0,9999.0
+"Flecha,  Mateo, El Viejo",,
+"Knight,  Edward",1774.0,1826.0
+"Gerber,  Stephen",1947.0,2008.0
+"Breil,  Joseph  C.",,
+"Frankle,  George",,
+"Barrière ,  Jean-Baptiste",1958.0,1958.0
+"Heidelberger,  Nathan",,
+"Glick,  Srul  Irving",1934.0,2002.0
+"Coleman,  Cy",1929.0,2004.0
+"Moriwaki,  Yosuke",,
+"Milan [Milán],  Luys",,
+"Jacobsen,  Colin",1937.0,9999.0
+"Segerstrom,  Eric",,
+"Lucas,  Mary  Anderson",1882.0,1952.0
+"Anastasio, Trey, and Hart, Don,",,
+"Kim-Suzuki,  Saya",,
+"Steiner,  George",1929.0,1974.0
+"Battishill,  Jonathan",1738.0,1801.0
+"Purrington,  Hilary",,
+"Barnaby,  Gunn",,
+"Yasinowski,  P.",,

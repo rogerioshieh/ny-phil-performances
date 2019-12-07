@@ -1,0 +1,756 @@
+  Jean  Marie Leclair
+  Charles  Gordon Rex
+  Pedro Sanjuan
+  Claire Wegh
+  Mia Micic
+  Georgy Kurtag [Kurtág]
+  David  Wendel F. Guion
+  Raffaelo de Banfield
+  Rebecca Harkness
+  Joachin Nin
+  Hans  Von Bulow
+  Milo Poniewozik
+  Sir  Charles  Hubert H. Parry
+  Rudolf Mengelberg
+  Marisol Estrella
+  Yusei Hata
+  David Aizenstadt
+  (Albert)  Franz Doppler
+  Arthur  N. Green
+  Earl  Cranston Sharp
+  Claude-Joseph  R. De Lisle
+  Julian Galesi
+  Abraham Pagan
+  Alexander Dargomiszky
+  Austin Celestin
+  Y. Rosenblatt
+  Karl  Joseph Lipinsky
+  Renato Bellini
+ P. Jose Antonio ne Zulaica)   Padre  (San Sebastian Donostia
+  Joaquin Malats
+  Eugen Zador
+  Nikolai  Vassilievitch Artsibushev
+  Nina Moske
+  Rajon Herbert
+  Nathan Mannes
+  Pyry Paunio
+  Vladimir Tsypin
+  Jacques Press
+  Robert Elkjer
+  Nikita Gontarcyk
+  Gabrielle Sibella
+  Edwin  S. Stringham
+  Lilly Kravath
+  Alexander  (Ernst) Fesca
+  Mondriana Villegas
+  Sir  Arthur Somervell
+  Ottokar  (Eugen) Novacek
+  Elliott Schenck
+  Julia Arancio
+  Robert Goldbeck
+  Guy Hall
+  Robert Katscher
+ Jr.   Samuel  de Lange
+ Jr.   Edward  Imeson Horsman
+  Robert  N. C. Bochsa
+  Graydon Hanson
+  Elliot Borishansky
+  Farah Taslima
+ III   M.  Roger Holland
+  Susan Botti
+  Giulio  Cesare Sonzogno
+  Johann  Carl Loewe
+  Yuki Iwamoto
+  DeAnte Green
+  Aleaster Williams
+ Weber-Berlioz
+  Kojiro Umezaki
+  Maurice Baron
+  Eva dell' Acqua
+  Ari Frankel
+  Juan  José Falcon Sanabria
+  Calie Brooks
+  Nathan Novick
+  Charles  Edward Duble
+  Sabin  V(asile) Dragoi
+  Melvin "Sy" Oliver
+  Ted Mossman
+  Osman Perez-Freire
+  Shelton  L. Becton
+  Allesandro Rolla
+  Heinrich  Joseph Baerman
+  Edward Broome
+  Duke Hoover
+  Lowell Shaw
+  Georg  Eduard Goltermann
+  Zachary Detrick
+  Reginald Sweet
+  George Rathbone
+  Sapo Perapaskero
+  Frank Van Der Stucken
+  Paquita Anderson
+ Jr.   George Loder
+  Sergius  Mikhailovich Lyapunov
+  Parker Baum
+  Frederic  Nicolas Duvernoy
+  George Lessner
+  Pavel Tchesnokoff
+  Johann  Christian Schultze
+  Bernardino  Bautista Monterde
+  Julius Levine
+  Shuwen Liao
+  Yann Robin
+  Daniel Sandidge
+  Jirí (Georg)  Antonín (Anton) Benda
+  Amina Durakovic
+  Sheridan Arotsky
+  Thorvald Otterstrom
+  Cenk Ergun
+  James C. Kessler
+  Julius Chajes
+ Don Alfonso-Carriola
+  August Lindner
+  Felix Nowowiejski
+  Walter Mourant
+  Eric Delamarter
+  Ludwig  Irgens Jensen
+  Hans  Von Bronsart
+  Theodor Rogalski
+  Louis Louiguy
+  Emile  R. Blanchet
+  Saevar Rodine
+  Edward Pichardo
+ Elmer  and   Schoebel  Billy Meyers
+  Adolfo Berio
+  Jean Binet
+  Olivia Turano
+  Max Ettinger
+  Jude Vaclavik
+  Victor Simonson
+  Franck Krawczyk
+  Sabrina Baum
+  Shuono Ashimine
+  Edmond Rickett
+  Paul  Emile Ladmirault
+  Paul Kerby
+  Margarita Zelenaia
+  Tomasso Vittoria
+  Michel  G. Andrico
+  Eric Nathan
+  George Ingraham
+  Herman Lohr
+  Suvani Weerakkody
+  Stan Golestan
+  Christina and Wu Pato and Tong
+  Mabelanna Corby
+  Sol  B Cohen
+  Louis Romen
+  Riziero "Riz" Ortolani
+  Marvin Siguencia
+  Henry Joslyn
+  J. S. -Gounod Bach
+  A. Raisin
+  Armand Balendonck
+  Miguel  Asins Arbo
+  Robert  C. Schenk
+  Countess  Ada  de Lachau
+  Werner Wehrli
+  Dr.  Mordechai Sobol
+  Leslie and Percaiz Malin and Cordero
+  Orlande  De Lassus
+  Karin Utagawa
+  N. Chen
+  Askell Masson [Másson]
+  Demicis Juarez
+  Leo Sussan
+  Anais Reno
+  Clayton Johns
+  A.  T. Rubetz
+  Dalit  Paz Warshaw
+  Max Grafe
+  Bulgar Odessaer
+  Marvin Fisher
+  Ashanti Espiritusanto
+  Emanuel Pugatchov
+  Raymond  Huntington Woodman
+  Kurt Striegler
+  Nicola Ferro
+  Tianhua Liu
+  Mahlon  Legrand Merrick
+  Elizabeth Egan
+  Lucius Hosmer
+  Bernard De la Monnoye
+  Makato Ozone
+  Hiroaki Iwamoto
+  Albert Chiaffarelli
+  Douglas Vistel
+  Sir  Lennox Berkeley
+  Carlos Paulino
+  Margaret Schedel
+  Asuka Susaki
+  Francisque Darcieux
+  Francis Saltus  Van Boskerck
+  Walter Golde
+  Aline  Sauvegrain Tanabe
+ Goublier
+  Julius Mattfeld
+  John  Gerard Williams
+  Karl-Heinz  (Köper) Koper
+  Peidong Xu
+  Alfred Alessandresco
+  Albert  Heinrich Zabel
+  Eduard Kremser
+ Jr.   Musa Jatta
+  Allen Dodworth
+  Paolo Gallico
+  Chen and Zhanhao Gang and He
+  Arturo Bosmans
+  Felix Guenther
+  Mitchell  B. Southall
+  Elli Choi
+  Theoren Hyland
+  Ethan D'Ver
+  Ralph  John Jackno
+  Homer Grunn
+  Solomon Pimsleur
+  Maurice Johnstone
+  Kenny Ellis
+  Cesar Manon
+  Edward Perez
+  Franz Mair
+  Friedrich  Adolf Gumbert
+  Sandor Balassa
+  Qing Ying
+  Bernhard Alt
+  Paris Alvars
+  Emile Nerini
+  Eric Grip
+  Theodore  Eduard DuFaure Lajarte
+  Harriette Davison
+  Frederick Bergner
+  Emanuel Amiran
+  William  Harold Neidlinger
+  Wataru Hiramoto
+  Elmir Nikocevic
+  Taehyun Won
+ David   Foster  Carol Bayer Sager
+  Godfrey Turner
+  M Kowal
+  Jules Wengert
+  Henri De Fontenailles
+  Jeff Colella
+  Charles Kalman
+  Robert  Alex Anderson
+  Jean Stor
+  Nicola Piccinni
+  Harumi Watanabe
+  Jimmy MacHugh
+  Solomon Hoffman
+  Bernard Lorenziti
+  Morris Mamorsky
+  Joaquin Larregla
+  Gerhart von Westerman
+  Frederick Block
+  Johannes Rosenmuller
+  Bela Kovacs [Kovács]
+  Genevieve Chinn
+  Richard Metzdorff
+  Richard and Lee Dworsky and Blaske
+  M. Bensman
+  Brooks & Stanley Taylor
+  Robert  J. Farnon
+  Cassandra Stevens
+  John  Rosamund Johnson
+ Verzano
+  Benjamin  James Dale
+  Louis Duery
+  Laurie Myers
+  Dorothy Gates
+ Stan   Billy  & Kenton May
+  José Andre 
+  Edmund Schuecker
+  Gertrude Sans Souci
+  Yiqian Sun
+  Irénée Bergé
+  Robert Honstein
+  Roland Farley
+  Richard DuPage
+  Antonio Secchi
+  Walt  Barrows Zaritzky
+ Edelshtadt
+  Hans Fryba
+  Robert  (Walter) Moevs
+  Eldo Di Lazzaro
+  Roy Stoughton
+  Carol Sifuentes
+  Roberto Caamano
+  Luigi Luzzi
+ Pluddemann
+  Percy Gaunt
+  Willy Engel-Berger
+  Nebojsa  Jovan Zivkovic
+  Lindsay Sable
+  Spencer Clay
+  Gerardus Hubertus Galenus  von Brucken Fock
+  Andrew Babcock
+  John  M Blackburn
+  Issachar Miron
+  Yasuhiro Otani
+  A. Borguno
+  H.D.  van Goudoever
+  Zhenbang Lei
+  A.  N. Amanuensis
+  Friedrich  August Reissiger
+  Bryce and Richard Reed Dessner and Parry
+  Jacques Pillois
+ Gogliano
+  Pietro  Alessandro Yon
+  Shelley/Joke Hirsch/Lanz
+  Stuart Balcomb
+  Samuel  Latham Mitchell Barlow
+  Albert  Hermann Dietrich
+  George Vetessy
+  Eric Gritton
+  Joseph Strimer
+  Franz  Xaver Eisenhofer
+ and John  Robert   Jimmy  and Bonham  Plant Page
+  Eric Wubbels
+  Sir  Alfred  Herbert Brewer
+  José  Maurício Nunes-Garcia
+  Theodore Fitch
+  Nikolai Ivanov-Radkevich
+  Joseph Bologne  Chevalier de Saint-Georges
+  Julian Korzeniowsky
+  F. Baumann
+  Robert McGrimsey
+  Marc Ainger
+  Lenoard Cohen
+  Michelle Hirschhorn
+  Salvatore Scudrei
+  Henry  Stephen Cutler
+  William  Franke Harling
+  Shuya Feng
+  Jonathan Pieslak
+  Dr.  David  Gregor Corner
+ Nassara-Barroso
+  Fred Szymanski
+ Alsneff
+  Mary  Lou Wesley
+ Soarez-Saveno
+  Clemens  Freiherr von und zu Franckenstein
+  Albert Verley
+  Zevulun Kwartin
+  Theresa  Clotilde Del Riego
+  Stephen Jablonsky
+  Roger Vitrago
+  Vladimir Metzl
+  Celso Garrido-Lecca
+  John Novacek
+  Grant Beglarian
+  J. Schaeffer
+  Michael  L. Starokadomsky
+  Paul Rissmann
+  Kari Vakeva
+  Carl Evers
+ Bettorini
+  Josef Meck
+  Noam Sivan
+  Marko Tajtchevitch
+  Alfred Sendrey
+  Annabel Willis
+  Jake Landau
+  Pavlos  Karreris] Carrer [Karrer
+  Daniel Plante
+  Ilana Held
+  Giacomo Minkowsky
+  John Haussermann
+  Max Schoenherr
+  Elan Rechtman
+  Jack Gulielmetti
+  Isaac Draper
+ Troiani-Bandini
+  Felix Labunski
+  Xavier  de Paz
+  Chengren Bai
+  Guang Zhao
+  K. Listov
+  Miguel Yuste Moreno
+  Jean-Joseph  De Mondonville
+  Max  Von Erdmannsdorfer
+ Jr.   Joseph Hellmesberger
+  Louis Gesensway
+  William "Smokey" and Ronald Robinson and White
+  Charles  Gilbert Spross
+  Charles  Francois Clement [Clément]
+  Danielle  Kerani Oberdier
+  Lazaro del Alamo
+  Aaron Einbond
+  Maurice Wright
+  N.  J. Elsenheimer
+  Daniel Kallman
+  Sae-Young Kim
+  Richard Dubugnon
+ Tuerck
+  Qin Ding
+  Caroline Mallonee
+  Yuankai Bao
+  Theodor Stearns
+  Yue Fang
+  Leopold Van Der Pals
+  Walter Burle Marx
+  Erik Leidzen
+  George Matzka
+  Hugo Bruckler
+  Stanly Diaz
+  Kyle Rotolo
+  Janis Rosario
+  Alexander Friedrich
+  Giorgio Stigelli
+  D. Nowakowsky
+  Jacques  De Menasce
+  Edmund Kretschmar
+ Lopez-Buchardo
+  Kathryn Godfrey
+  Richard Sortomme
+  Chris Kapica
+  Henri  Emile Enthoven
+  Jeffrey Hass
+  Gerhard Samuel
+  John  Comfort Fillmore
+  Fernando Laub
+  Francisco De La Torre
+  Walter Diamond
+  Raffaello De Banfield
+  La Salle Spier
+  Clelia Patrono
+  Roy  Elihu Travis
+  Ivan Nunez
+  Francis  Alexander Korbray
+  Stanislas Gastaldon
+  Hekel Tavares
+  Joaquin Valverde
+ Glibert
+  Giovanni Coperiario
+  Gangru Ge
+  Alphonse  Jean Hasselmans
+  Clemens von Reusner
+  Arthur  H Gutman
+  Jasmin Rodriguez
+  Johann  M Blose
+  Sarah Fleming
+  Maya Pino
+  Qianyi Zhang
+  Yeorgo Sicilianos
+  Katya Chemberdji
+  Paolo Gatti
+  Matteus de Perusio
+  Friedrich Wildmans
+  Patrick & Vincent Wong & Xiao
+  Mark Zaki
+  Henry Burck
+  Heinrich  Gottlieb Noren
+  Qi Qian
+  Jan  Vaclav Stich
+ Font de Anda
+  Camilla Petronio
+  Sara Chough
+  William  G. Hammond
+  Marc-Antonio Consoli
+  Yusong Zhang
+  Ragnar Grippe
+  Theodore Blumer
+  James  M. Wehli
+  Andrae  (Edward) Crouch
+  Kyla Robinson
+  Chenglong Zhou
+  Danielle Gardner
+  Sigfrid Karg-Ellert
+ Sturm-Biel
+  Mario Tarenghi
+  G.  H. Knight
+  Aino Hartonen
+ Geral
+  Joseph Shaeffer
+  Dmitri Yanov-Yanovsky
+  Josef Alexander
+  Noah Jimenez
+  Stephen Rush
+  Clair Leonard
+  Xavier  Henry Napoleon Leroux
+  Garrison/Rich/Andy Keillor/Dworsky/Stein
+  M. Font
+  Roffredo Caetani
+  Anabel Leger
+ Pinsoti
+  Richard Pygott
+  Michael McNabb
+  Frederic Balazs
+  Luise Vosgerchien
+  Brooke Samerson
+  Gary Fagin
+  Celius  (Hudson) Dougherty
+  Richard Redhead
+  Manuel Garcia-Matos
+  Vladimir Zagortsev
+  A.  L. Peace
+  Henry Souvaine
+  Kim Ganin
+  Sydney Hodkinson
+  Max Kidder
+  Carl  F.W. Haase
+  Nonna Otesco
+  Otto Cesana
+  James  J. McCabe
+  John/Paul Lenon/McCartney
+  George/Lowell Handel/ Mason
+  Fritz Fleck
+  HanNa Kim
+  M Parish
+  Samantha Mindlin
+  Louis Dachauer
+  Henry Schmitz
+  Robert  Coningsby Clarke
+  Arthur Hinton
+  Y.  D. Levinson
+ Morganstern
+  Dani Dor
+  John  MacLeod Chowning
+  Lucas Alexander
+  Joseph  Frizell Kerr
+  Jehin Prume
+  June & Iris Yaysnoff
+ Topliffe
+  Karl  Heinrich Riedel
+  Chris Cerrone
+  Georgii Sergeevich Miliutin
+  Bruno Cerchio
+  Eric Lyon
+  Allen  D. Sapp
+  Henry  M. Dunham
+  Samuel  P. Waddington
+  Ira Taxin
+  Angelica Negron
+  Nicholas Thorne
+  Reiner Kramer
+  Jack Gottlieb
+  Gary Geld
+  Felipe Bermejo
+  Michael Gogins
+  Paul  David Thomas
+  Christopher Coletti
+  Thomas Kotcheff
+  Cindy Lu
+ Garcia-Estrada
+  J. Pache
+  Caitlin Quinlan
+  Calista Bryant
+  Michal Spisak
+  Jeremie Jones
+  Charles Maduro
+  Larry  Dick and Marks Charles
+  Samantha Darris
+ Sauter-Finegan
+  Yitzchak  Eliyahu Navon
+  Eduard  Frantsovitch Napravnik (Nápravník)
+  Johann  C. Friedrich Schneider
+  Alexander Semmler
+  Ruocuo Sang
+  Thomas Tertius-Noble
+  Michael  J. Shea
+  Margaret  R. Lang
+  Henry Betti
+  Amedeo De Filippi
+  Maja/Liubo Cerar/Borissov
+  A. Haertel
+  David Winkler
+  Alberto Gasco
+  Yiqing Lu
+  Sam Pluta
+  Sir  George Elvey
+  Grant Luhmann
+  Victor Yoran
+  I Alter
+  Eugene Fuerst
+  Tengku  Ahmad Irfan
+  Oscar Espla [Esplá]
+  Reuven Kosakoff
+  Nicholas Brodsky
+  Jose  (Paul) White
+  Ernst  Wilhelm Heinemeyer
+  Maria Grave
+  Tuo Wang
+  Antoine  Louis Clapisson
+  Yibing Qian
+  Anthonellus de Caserta
+  Dorothy  W. Adair
+  Aleksey & Huyng-ki Igudesman & Joo
+  Anton Biloti
+  Paul Nero
+  Wheeler Beckett
+  Ernst Lubeck
+  Živojin Glisic
+  Wuan-chin Li
+  Elizabeth Firestone
+  McNair Ilgenfritz
+  A. Glaassen
+  Joseph  Francis Lamb
+  Max  Wilhelm Karl Vogrich
+  Ricardo Blasco
+  Caleb Hudson
+  Mark Riese
+  Ashley Balbi
+  Barbara Stein
+  Ruggero Vene
+  David Zahavi
+  Timothy Peterson
+  Jeanne-Louise Farrenc
+  Carl Hohnstock
+  Bryce Collings
+  Yaakov Talmud
+  John  W. Bratton
+  Angie Andrade
+  Paul Hembree
+  Melhia Piot
+  Wenzel Neukirchner
+  Girado Gilardi
+  Emily Tu
+  Florian  F. Mueller
+  Henry Kotkin
+  Giovanni  Battista Rizzo
+  Stella Fiorenzoli
+  Arnold Zemachson
+  Joan Lamonte de Grignon
+  Ilan Esman
+  Aidan Ng
+  Pierre  Octave Ferroud
+  Melody Eotvos
+ Rehfeld
+  Jackson Comstock
+  Edwin Dugger
+  William Bogzester
+  G. Costa
+  Marin Okuyama
+  A. Maloof
+  Donald  Matthew Redman
+ Jr.   Gino Marinuzzi
+  Yehezkel Raz
+  Cheyenne Boyle-Cole
+  Eugene  MacDonald Bonner
+  Carl Maltsby
+  Charlie  ("Bird") Parker
+  Ignaz  Amadeus Tedesco
+  Keito Tateno
+  Aliyana  Tedi Braun
+  Olga Senk
+  Justin  P. Tokke
+  Aaron  Wolff Fig
+  Joshua Clausen
+  Arthur Kampela
+  Louis  Victor Saar
+  Henry Clough-Leighter
+ and Gloria  Dino   Freddie  and Gaynor  Fekaris Perren
+  Béla Reinitz
+  J. Geissel
+  Aiesha Gray
+  Josef Brody
+  Jean  Charles Dancla
+  Michael  Douglas Ripoll
+  A. Turlet
+  Daniel Moors
+  Juan Guitierrez de Padilla
+  George Grigoriu
+  Humphrey  J. Stewart
+  James Kazik
+  Jacques  Pierre Joseph Rode
+  Lita Lipschutz
+  Burnet Tuthill
+  David  T. Shaw
+  Raphael Mostel
+  I. & Moshe Stern
+ Manna Zucca
+  Bernard Andres
+  Jong Eun  Sylvia Park
+  Julián Aguirre
+  Yijun Zhang
+  Donny and Nadine Hathaway and McKinnor
+ Parbury
+  Morley Calvert
+  Peter Heidrich
+  P. Chutiner
+  Heinrich von Biber
+  Friedrich  E. Koch
+  Arthur Napoleon
+  Elijah Valongo
+  August Gockel
+  Menachem Bensussan
+  Archibald  Beresford Sullivan
+  Floro  M(elitón) Ugarte
+  Xiuying Luo
+  Gloria Nissenson
+  Carman Moore
+  G. Sachnowsky
+  Julio  Martinez Oyanguren
+  Arianna Vega
+  Hurbert Howe
+  Richard  C. Bourk
+  Wells Hively
+  Charles  Fonteyn Manney
+  Seneca Pierce
+  Gregory Pascuzzi
+  Gilbert Alcock
+  Wiiliam Saar
+  Colin Jacobson
+  Luke & Steve Cresswell & McNicholas
+  Harry Shmerler
+  Mary Kouyoumdjian
+ Ferrao
+ Rucken
+  Lawrence Fritts
+  Walter Helfter
+  Nuha Dolby
+  Philipp Fahrbach
+  Felipe Lara
+  Joshua Mailman
+  A-Mao Wang
+  Hermann Gradener
+  Ivanof Kallinnikof
+  Luigi Bordese
+  Nicholas Cline
+  Vittorio Montalti
+  Alexander Savine
+  Lorenzo Camilieri
+  Ludwig Schindelmeisser
+  Klauss Egge
+  Langdon Ronald
+  Jimmy  Terry & Eaton Shand
+ Kekeu
+  Henri  Leon Le Roy
+  Paul Valjean
+  William  F. Otten
+  Dijon James
+  Wilhelm Heinefetter
+  John  M. Klein
+ Di Crescenza
+  Haralabos Stafylakis
+  Prince  Camillo  Ruspoli Di Candriano
+  Gabija Blaudziunas
+  Robert  C. May
+  Dolores Vicki Silvers
+  Hai-Deng Yan
+  Walter Pfeffer
+  Misato Mochizuki
+  M. Frey
+  Roy  Spaulding Stoughton
+  Georges  Jean Pfeiffer
+ El Viejo   Mateo Flecha
+  Joseph  C. Breil
+  George Frankle
+  Nathan Heidelberger
+  Yosuke Moriwaki
+  Luys Milan
+  Eric Segerstrom
+  Don  and Hart  Trey Anastasio
+  Saya Kim-Suzuki
+  Hilary Purrington
+  Gunn Barnaby
+  P. Yasinowski
