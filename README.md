@@ -12,7 +12,7 @@ Music scholars often examine such datasets manually, either by researching writt
 
 For example: Wagner is one of the most performed composers of all times. However, the graph of his performances (below) shows that there was a sharp decline of his performances in between 1900-1920s. A music scholar can use this information to create/support an argument that proposes how WW1 affected how the composer was viewed in the US.  
 
-![Wagner graph](/data/graphs/Wagner.png "Wagner graph")
+![Wagner graph](/data/graphs/wagner.png "Wagner graph")
 
 Graphs from other composers can be found on the <code>data/graphs/</code> folder.
 
